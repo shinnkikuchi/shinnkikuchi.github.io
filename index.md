@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About
+title: Home
 ---
 
 Hi! I'm a third-year PhD student in the Department of Economics at MIT.
