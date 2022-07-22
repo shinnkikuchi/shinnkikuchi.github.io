@@ -23,9 +23,8 @@ with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>
 ## Resting Papers
 
 
-Welfare Effects of Polarization: Occupational Mobility over the Life-cycle; <a href="/files/research/KK-ROBOT.pdf">PDF</a><br>
-with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
-July 2020<br>
+Welfare Effects of Polarization: Occupational Mobility over the Life-cycle<br>
+with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>; <a href="/files/research/KK-ROBOT.pdf">PDF</a>, Last updated in July 2020<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
