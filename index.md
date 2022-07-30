@@ -16,8 +16,6 @@ You can contact me by email at [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
 Automation in Globalization<br>
 
-Minimum Wage and Automation<br>
-
 Decomposing the Global Rise of Populist Parties<br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 
