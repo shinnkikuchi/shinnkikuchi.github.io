@@ -27,9 +27,9 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 ## COVID-19 Research
 
 
-Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan • <a href="/files/research/KKM_COVID19.pdf">PDF</a> <br>
+Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan
+with <a href="https://sites.google.com/site/sagirikitao/home?authuser=0" target="_blank">Sagiri Kitao</a> and <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a>; <a href="/files/research/KKM_COVID19.pdf">PDF</a> <br>
 *Journal of the Japanese and International  Economies*, March 2021<br>
-with <a href="https://sites.google.com/site/sagirikitao/home?authuser=0" target="_blank">Sagiri Kitao</a> and <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
