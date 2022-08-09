@@ -8,7 +8,7 @@ title: Home
 
 Hi! I'm a third-year PhD student in the Department of Economics at MIT.
 
-I'm interested in macroeconomics, international trade, labor economics, and political economy.
+I'm interested in Macroeconomics, International trade, Labor economics, and Political economy.
 
 You can contact me by email at [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
