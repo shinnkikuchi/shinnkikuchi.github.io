@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-Hi! I'm a rising third-year PhD student in the Department of Economics at MIT.
+Hi! I'm a rising fourth-year PhD student in the Department of Economics at MIT.
 
 I'm interested in Macroeconomics, International Trade, Labor Economics, and Political Economy.
 
