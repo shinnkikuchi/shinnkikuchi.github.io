@@ -6,9 +6,9 @@ layout: home
 title: Home
 ---
 
-Hi! I'm a rising fourth-year PhD student in the Department of Economics at MIT.
+Hi! I'm a fourth-year PhD student in the Department of Economics at MIT.
 
-I'm interested in Macroeconomics, International Trade, Labor Economics, and Political Economy.
+I work at an intersection of Macro, Trade, Labor, and Political Economy. My research interest is how technology interplays with international systems, demographics, and institutions.
 
 You can contact me by email at [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
