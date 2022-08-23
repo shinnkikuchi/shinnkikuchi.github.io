@@ -8,7 +8,7 @@ title: Home
 
 Hi! I'm a fourth-year PhD student in the Department of Economics at MIT.
 
-I work at an intersection of Macro, Trade, Labor, and Political Economy. My research interest is how technology interplays with international systems, demographics, and institutions.
+I work at an intersection of Macro, Trade, Labor, and Political Economy.
 
 You can contact me by email at [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
