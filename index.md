@@ -20,3 +20,11 @@ Minimum Wage and Technology<br>
 
 Decomposing the Rise of the Populist Radical Right<br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
+
+## Presentations
+
+<s>Aug. 2022, Asian Meeting of the Econometric Society in East and South-East Asia</s><br>
+
+Oct. 2022, Macroeconomics Workshop, Keio University<br>
+
+Nov. 2022, The 17th Applied Econometrics Conference (Tokyo)<br>
