@@ -4,14 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-## In Progress
+## Work In Progress
 
 Automation in Globalization<br>
 
 Minimum Wage and Technology<br>
 
-
-## Working Papers
 Decomposing the Rise of the Populist Radical Right<br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>;<a href="/files/research/DGKL-Populism.pdf" target="_blank">PDF</a>, Last updated in September 2022<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -20,6 +18,8 @@ with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>
 	Support for populist radical right parties in Europe has dramatically increased in the twenty-first century. We decompose the rise of the populist radical right between 2005-2020 into four components: changes in party positions, changes in voter characteristics (demographics and opinions), changes in voters' priorities, and a residual. We merge data on party positions from the Comparative Manifesto Project with data on voter characteristics from the Integrated Value Survey. Using a probabilistic voting model, we estimate voting priorities: the parameters of the utility function, which determine the weights voters place on different party positions, given their characteristics. We find that shifts in party positions and changes in voter characteristics explain only a negligible part of the rise of the populist radical right. Instead, the main driver behind the success of populist radical right parties lies in voters' changing priorities: voters---mainly older, non-unionized low-educated males---increasingly place a higher priority on cultural issues compared to economic issues. This allows populist radical right parties to tap into a preexisting reservoir of culturally conservative voters.
 	
 </details>
+
+## Dormant Working Paper
 
 Welfare Effects of Polarization: Occupational Mobility over the Life-cycle<br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>; <a href="/files/research/KK-ROBOT.pdf" target="_blank">PDF</a>, Last updated in July 2020<br>
