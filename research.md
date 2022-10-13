@@ -14,9 +14,9 @@ Automation in Globalization<br>
 	
 </details>
 
-
-Decomposing the Rise of the Populist Radical Right<br>
-with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>; <a href="/files/research/DGKL-Populism.pdf" target="_blank">PDF</a>, Last updated in September 2022<br>
+<a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right</a>
+<br>
+with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>; Last updated in September 2022<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
@@ -28,8 +28,8 @@ Minimum Wage and Technology<br>
 
 ## Dormant Working Paper
 
-Welfare Effects of Polarization: Occupational Mobility over the Life-cycle<br>
-with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>; <a href="/files/research/KK-ROBOT.pdf" target="_blank">PDF</a>, Last updated in July 2020<br>
+<a href="/files/research/KK-ROBOT.pdf" target="_blank"><a href="/files/research/KK-ROBOT.pdf" target="_blank">PDF</a></a><br>
+with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>; Last updated in July 2020<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
@@ -40,8 +40,8 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 ## COVID-19 Research
 
 
-Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan<br>
-with <a href="https://sites.google.com/site/sagirikitao/home?authuser=0" target="_blank">Sagiri Kitao</a> and <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a>; <a href="/files/research/KKM-COVID19.pdf">PDF</a>; <a href="https://www.sciencedirect.com/science/article/pii/S088915832030054X">Publisher's Site</a> <br>
+<a href="/files/research/KKM-COVID19.pdf">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a><br>
+with <a href="https://sites.google.com/site/sagirikitao/home?authuser=0" target="_blank">Sagiri Kitao</a> and <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a>; <a href="https://www.sciencedirect.com/science/article/pii/S088915832030054X">Publisher's Site</a> <br>
 *Journal of the Japanese and International  Economies*, March 2021<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
