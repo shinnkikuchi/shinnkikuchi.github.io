@@ -9,6 +9,7 @@ permalink: /research/
 <a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right</a>
 <br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
+Last updated in September 2022<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
@@ -29,7 +30,8 @@ Minimum Wage and Technology<br>
 ## Others
 
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle</a><br>
-with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>Last updated in July 2020<br>
+with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
+Last updated in July 2020<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
