@@ -6,9 +6,9 @@ layout: home
 title: Home
 ---
 
-Hi! I'm a fourth-year PhD student in the Department of Economics at MIT.
+Fourth-year PhD student at MIT Econ.
 
-I work at an intersection of Macro, Trade, Political Economy, and Labor Economics.
+Field: Macro, Trade, Political Economy, Labor.
 
 You can contact me by email at [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
