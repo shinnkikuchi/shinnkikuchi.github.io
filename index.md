@@ -6,11 +6,11 @@ layout: home
 title: Home
 ---
 
-Fourth-year PhD student at MIT Econ.
+Fourth-year PhD student at MIT Econ
 
 Field: Macro, Trade, Political Economy, Labor.
 
-You can contact me by email at [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
+Contact: [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
 ## In Progress
 
