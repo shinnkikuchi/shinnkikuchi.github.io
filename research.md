@@ -25,9 +25,6 @@ Automation in Globalization<br>
 	
 </details>
 
-Minimum Wage and Technology<br>
-
-## Others
 
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
@@ -39,7 +36,10 @@ Last updated in July 2020<br>
 	
 </details>
 
+Minimum Wage and Technology<br>
 
+
+## Applied work for the Japanese labor market
 <a href="/files/research/KKM-COVID19.pdf">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home?authuser=0" target="_blank">Sagiri Kitao</a> and <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a>; <a href="https://www.sciencedirect.com/science/article/pii/S088915832030054X">Publisher's Site</a> <br>
 *Journal of the Japanese and International  Economies*, March 2021<br>
