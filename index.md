@@ -25,7 +25,7 @@ with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>
 	
 </details>
 
-Automation in Globalization<br>
+Automation and Comparative Advantage<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
