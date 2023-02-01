@@ -8,7 +8,7 @@ title: Home
 
 Fourth-year PhD student at MIT Econ
 
-Field: Macro, Trade, Political Economy, Labor.
+Field: Macro, Trade, Political Economy.
 
 Contact: [skikuchi@mit.edu](mailto:skikuchi@mit.edu).
 
