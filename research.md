@@ -42,7 +42,7 @@ Automation and Comparative Advantage<br>
 Minimum Wage and Technology<br>
 
 
-## Applied work for the Japanese labor market
+## COVID-19 Research
 <a href="/files/research/KKM-COVID19.pdf">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home?authuser=0" target="_blank">Sagiri Kitao</a> and <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a>; <a href="https://www.sciencedirect.com/science/article/pii/S088915832030054X">Publisher's Site</a> <br>
 *Journal of the Japanese and International  Economies*, March 2021<br>
