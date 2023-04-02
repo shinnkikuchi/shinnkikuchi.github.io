@@ -11,12 +11,4 @@ I am a fourth-year PhD student at MIT Economics.
 My research focuses on economic growth, trade, and political economy.
 
 
-Contact and links: [Email](mailto:skikuchi@mit.edu), [Twitter](https://twitter.com/ShinnKikuchi)
-
-## Upcoming Presentations
-
-Osaka University, April 2023 <br>
-
-Kyoto, July 2023 <br>
-
-NBER Japan Meeting (Tokyo), August 2023 <br>
+Contact and links: [Email](mailto:skikuchi@mit.edu)
