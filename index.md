@@ -14,7 +14,7 @@ My research focuses on economic growth, trade, and political economy.
 Contact and links: [Email](mailto:skikuchi@mit.edu)
 
 
-## Working papers
+## Research
 
 <a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right</a>
 <br>
@@ -39,7 +39,6 @@ Last updated in July 2020<br>
 </details>
 
 
-## Work in progress
 Automation and Comparative Advantage<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
