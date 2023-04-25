@@ -14,11 +14,13 @@ My research focuses on economic growth, trade, and political economy.
 Contact and links: [Email](mailto:skikuchi@mit.edu)
 
 
-## Research
+## Working Papers
 
 <a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right</a>
 <br>
-with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
+with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
+<a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, 
+and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
 Last updated in March 2023<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
@@ -38,8 +40,10 @@ Last updated in July 2020<br>
 	
 </details>
 
+## Work in Progress
 
 Automation and Comparative Advantage<br>
+Presented at Keio (Occ. 2022), Canon Global Institute (Dec. 2022), Columbia Japan Economic Seminar (Feb. 2023), Osaka (Apr. 2023, scheduled)<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 
@@ -49,4 +53,5 @@ Automation and Comparative Advantage<br>
 
 Granular Origins of Labor Market Pooling<br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
+Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023, scheduled)<br>
 Abstract Coming Soon<br>
