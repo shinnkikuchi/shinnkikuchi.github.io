@@ -8,7 +8,7 @@ title: Home
 
 I am a fourth-year PhD student at MIT Economics.
 
-My research focuses on economic growth, trade, and political economy.
+My research focuses on Growth, Trade, and Political Economy.
 
 
 Contact and links: [Email](mailto:skikuchi@mit.edu)
@@ -64,6 +64,5 @@ Takanori Nishida,
  <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
 Abstract Coming Soon<br>
 Presented at Tohoku (Feb. 2023), UTokyo (June 2023, scheduled)<br>
-
 
 
