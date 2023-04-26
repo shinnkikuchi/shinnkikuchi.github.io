@@ -46,13 +46,13 @@ Last updated in July 2020<br>
 	I study how automation affects comparative advantage. In the past centuries, the initial stages of economic development featured comparative advantage in low-skill-intensive sectors due to low-skill-labor abundance, as predicted by the Heckscher-Ohlin Theorem. I show, however, that this relationship has weakened—or even reversed—in the 21st century. This decoupling/reversal occurs because automation provides developed countries with endogenous comparative advantage in low-skill-intensive sectors. My counterfactual analysis shows that recent developing countries would have specialized in low-skill intensive sectors and enjoyed more gains from trade, as East Asian countries did, without automation in developed countries.
 	
 </details>
-> Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia Japan Economic Seminar (Feb. 2023), Osaka (Apr. 2023, scheduled)<br>
+*Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia Japan Economic Seminar (Feb. 2023), Osaka (Apr. 2023, scheduled)*<br>
 
 
 **Granular Origins of Labor Market Pooling**<br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 Abstract Coming Soon<br>
-> Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023, scheduled)<br>
+*Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023, scheduled)*<br>
 
 
 **Geography of Business Interactions: Evidence from Business Card Exchange Data** <br>
@@ -63,10 +63,10 @@ Takanori Nishida,
 <a href="https://sites.google.com/site/kensuketeshima/" target="_blank">Kensuke Teshima</a>, 
  <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
 Abstract Coming Soon<br>
-> Presented at Tohoku (Feb. 2023), UTokyo (June 2023, scheduled)<br>
+*Presented at Tohoku (Feb. 2023), UTokyo (June 2023, scheduled)*<br>
 
 **Automation, Labor Share, and Concentration** <br>
 Abstract Coming Soon<br>
-> Presented at NBER Japan Meeting (Aug. 2023, scheduled)<br>
+*Presented at NBER Japan Meeting (Aug. 2023, scheduled)*<br>
 
 
