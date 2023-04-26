@@ -65,4 +65,8 @@ Takanori Nishida,
 Abstract Coming Soon<br>
 > Presented at Tohoku (Feb. 2023), UTokyo (June 2023, scheduled)<br>
 
+**Automation, Labor Share, and Concentration** <br>
+Abstract Coming Soon<br>
+> Presented at NBER Japan Meeting (Aug. 2023, scheduled)<br>
+
 
