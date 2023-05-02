@@ -37,7 +37,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 ## Work in Progress
 
 **Automation and Comparative Advantage**<br>
-*Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia Japan Economic Seminar (Feb. 2023), Osaka (Apr. 2023, scheduled)*<br>
+*Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia Japan Economic Seminar (Feb. 2023), Osaka (Apr. 2023)*<br>
 
 
 **Granular Origins of Labor Market Pooling**<br>
