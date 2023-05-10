@@ -6,9 +6,9 @@ layout: home
 title: Home
 ---
 
-I am a fourth-year PhD student at MIT Economics.
+Fourth-year PhD student at MIT Economics.
 
-My research focuses on Growth, Trade, and Political Economy.
+**Research Interests:** Macroeconomics, International Trade, and Political Economy.
 
 
 Contact and links: [Email](mailto:skikuchi@mit.edu)
@@ -16,11 +16,10 @@ Contact and links: [Email](mailto:skikuchi@mit.edu)
 
 ## Working Papers
 
-<a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right (2023)</a>
-<br>
+**Decomposing the Rise of the Populist Radical Right**<br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
 <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, 
-and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
+and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a> <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Download PDF]</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	Support for populist radical right parties in Europe has dramatically increased in the twenty-first century. We decompose the rise of the populist radical right between 2005 and 2020 into four components: changes in party positions, changes in voter attributes (demographics and opinions), changes in voters' priorities, and a residual. We merge two wide data sets on party positions and voter attributes and estimate voter priorities using a probabilistic voting model. We find that shifts in party positions and changes in voter attributes explain only a negligible part of the rise of populist radical right parties. The primary driver behind the success of these parties lies in voters' changing priorities. Particularly, voters are less likely to decide which party to support based on parties' economic positions. Instead, voters---mainly older, non-unionized, low-educated men---increasingly prioritize nativist cultural issues. This allows populist radical right parties to tap into a pre-existing reservoir of culturally conservative voters.
