@@ -6,6 +6,7 @@ layout: home
 title: Home
 ---
 
+## Shinnosuke (Shin) Kikuchi
 Fourth-year PhD student at MIT Economics.
 
 **Research Interests:** Macroeconomics, International Trade, and Political Economy.
@@ -16,7 +17,7 @@ Contact and links: [Email](mailto:skikuchi@mit.edu)
 
 ## Working Papers
 
-**Decomposing the Rise of the Populist Radical Right**<br>
+**"Decomposing the Rise of the Populist Radical Right"**<br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
 <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, 
 and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a> <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Download PDF]</a><br>
@@ -26,8 +27,8 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a> <a href="
 </details>
 
 
-<a href="/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle (2020)</a><br>
-with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
+**"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**<br>
+with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><a href="/files/research/KK-ROBOT.pdf" target="_blank">[Download PDF]</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
@@ -35,18 +36,17 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 
 ## Work in Progress
 
-**Automation and Comparative Advantage**<br>
+**"Automation and Comparative Advantage"**<br>
 *Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia (Feb. 2023), Osaka (Apr. 2023)*<br>
 
-**Automation, Labor Share, and Concentration** <br>
+**"Automation, Labor Share, and Concentration"** <br>
 *Presented at NBER Japan Meeting (Aug. 2023, scheduled)*<br>
 
-**Granular Origins of Labor Market Pooling**<br>
+**"Granular Origins of Labor Market Pooling"**<br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 *Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023, scheduled)*<br>
 
-
-**Geography of Business Interactions: Evidence from Business Card Exchange Data** <br>
+**"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
 with Shota Komatsu, 
 Juan Martínez, 
 <a href="https://knakajima.weebly.com/" target="_blank">Kentaro Nakajima</a>, 
