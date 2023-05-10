@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-## Shinnosuke (Shin) Kikuchi
+## About
 Fourth-year PhD student at MIT Economics.
 
 **Research Interests:** Macroeconomics, International Trade, and Political Economy.
