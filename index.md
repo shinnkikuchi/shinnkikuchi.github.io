@@ -16,7 +16,7 @@ Contact and links: [Email](mailto:skikuchi@mit.edu)
 
 ## Working Papers
 
-<a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right</a>(2023)
+<a href="/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right (2023)</a>
 <br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
 <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, 
@@ -27,7 +27,7 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
 </details>
 
 
-<a href="/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle</a>(2020)<br>
+<a href="/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle (2020)</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
