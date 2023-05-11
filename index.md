@@ -43,7 +43,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 
 **"Granular Origins of Labor Market Pooling"**<br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
-*Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023, scheduled)*<br>
+*Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023)*<br>
 
 **"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
 with Shota Komatsu, 
