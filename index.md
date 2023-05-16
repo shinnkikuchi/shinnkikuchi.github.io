@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-Fourth-year PhD student at MIT Economics.
+4th-year PhD student at MIT Economics.
 
 **Research Interests:** Macroeconomics, International Trade, and Political Economy.
 
