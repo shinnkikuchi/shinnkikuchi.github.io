@@ -7,9 +7,9 @@ title: Home
 ---
 I am a PhD student at MIT Economics.
 
-My research Interests are macroeconomics, international trade, and political economy.
+My research interests are macroeconomics, international trade, and political economy.
 
-Links: [Email](mailto:skikuchi@mit.edu), <a href="/files/CV.pdf" target="_blank">CV</a>
+Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/CV.pdf" target="_blank">CV</a>
 
 
 ## WORKING PAPERS
