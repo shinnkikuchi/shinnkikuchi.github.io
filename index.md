@@ -9,7 +9,7 @@ title: Home
 
 **Research Interests:** Macroeconomics, International Trade, and Political Economy.
 
-Contact and links: [Email](mailto:skikuchi@mit.edu)
+[Email](mailto:skikuchi@mit.edu), <a href="/files/CV.pdf" target="_blank">CV</a>
 
 
 ## WORKING PAPERS
