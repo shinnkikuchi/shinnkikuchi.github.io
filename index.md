@@ -9,7 +9,7 @@ I am a PhD student at MIT Economics.
 
 My research interests are Macroeconomics, International Economics, Innovation, and Political Economy.
 
-Links/PDF: [skikuchi@mit.edu](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>
+Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>
 
 
 ## WORKING PAPERS
