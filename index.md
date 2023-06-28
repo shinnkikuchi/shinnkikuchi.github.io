@@ -44,3 +44,12 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 **"Granular Origins of Labor Market Pooling"**<br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 *Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023)*<br>
+
+**"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
+with Shota Komatsu, 
+Juan Martínez, 
+<a href="https://knakajima.weebly.com/" target="_blank">Kentaro Nakajima</a>, 
+Takanori Nishida, 
+<a href="https://sites.google.com/site/kensuketeshima/" target="_blank">Kensuke Teshima</a>, 
+ <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
+*Presented at Tohoku (Feb., May 2023), UTokyo (June 2023), Kyoto Applied Econ (July 2023, scheduled)*<br>
