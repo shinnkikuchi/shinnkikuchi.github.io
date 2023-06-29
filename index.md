@@ -35,7 +35,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 
 ## WORK IN PROGRESS
 
-**"Automation, Comparative Advantage, and Premature Deindustrialization"**<br>
+**"Automation, Comparative Advantage, and Premature Deindustrialization"**<a href="/files/research/KIKUCHI-trade_automation.pdf" target="_blank">[Download PDF]</a><br>
 *Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia (Feb. 2023), Osaka (Apr. 2023), SWET (Aug. 2023, scheduled)*<br>
 
 **"Automation, Labor Share, and Concentration"** <br>
