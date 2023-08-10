@@ -36,10 +36,10 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 ## WORK IN PROGRESS
 
 **"Automation, Comparative Advantage, and Premature Deindustrialization"**<br>
-*Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia (Feb. 2023), Osaka (Apr. 2023), SWET (Aug. 2023, scheduled)*<br>
+*Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia (Feb. 2023), Osaka (Apr. 2023), SWET (Aug. 2023)*<br>
 
 **"Automation, Labor Share, and Concentration"** <br>
-*Presented at NBER Japan Meeting (Aug. 2023, scheduled)*<br>
+*Presented at NBER Japan Meeting (Aug. 2023)*<br>
 
 **"Granular Origins of Labor Market Pooling"**<br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
