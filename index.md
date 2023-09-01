@@ -33,7 +33,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-## WORK IN PROGRESS
+## SELECTED WORK IN PROGRESS
 
 **"Automation and Comparative Advantage"**<br>
 *Presented at Keio (Oct. 2022), Canon Global Institute (Dec. 2022), Columbia (Feb. 2023), Osaka (Apr. 2023), SWET (Aug. 2023)*<br>
