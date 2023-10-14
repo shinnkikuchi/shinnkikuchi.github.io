@@ -9,7 +9,7 @@ I am a PhD student at MIT Economics.
 
 My research interests are Economic Growth, International Trade, and Political Economy.
 
-Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a> <a href="https://scholar.google.com/citations?user=ERWAMasAAAAJ" target="_blank">Google Scholar</a>
+Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>, <a href="https://scholar.google.com/citations?user=ERWAMasAAAAJ" target="_blank">Google Scholar</a>
 
 
 ## WORKING PAPERS
