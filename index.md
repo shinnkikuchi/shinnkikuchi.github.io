@@ -14,6 +14,15 @@ Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf"
 
 ## WORKING PAPERS
 
+**"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[Download PDF]</a><br>
+with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
+*Last Updated, Dec. 2023* <br>
+*Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023), UEA in Toronto (Oct. 2023), UTokyo (Dec. 2023, scheduled)*<br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary>Abstract</summary>
+	A few large firms dominate many local labor markets. This leaves workers vulnerable to firm-specific shocks. If one firm has a bad productivity shock in a small market, workers will be stuck with that unproductive employer, while in a large labor market, workers can move to another firm. Building on that insight, we present a model of local labor markets with a finite number of firms subject to idiosyncratic shocks. We show that there are increasing returns to scale which disappear as the number of firms goes to infinity. We also show that there can be under-entry of firms, especially in small markets. We then test the main mechanism in Japanese administrative data. We first confirm that payroll is less volatile in larger, less concentrated local labor markets. We also show that establishments with larger payroll shares respond less in adjusting employment to a demand shock. Finally, we propose a quantitative, granular model of economic geography with free entry of firms and costly mobility of workers across sectors and commuting zones that could be used to quantify the mechanism and do counterfactuals.
+</details>
+
 **"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Download PDF]</a><br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
 <a href="https://scholar.harvard.edu/gidron/home" target="_blank">Noam Gidron</a>, 
@@ -40,14 +49,6 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	I study how automation affects comparative advantage and structural change in an open economy. Previously, the initial stages of economic development featured comparative advantage in low-skill-intensive manufacturing sectors because of low-skill-labor abundance. Recently, however, I show that this relationship has weakened—or even reversed. This decoupling occurs because automation provides developed countries with endogenous comparative advantage in low-skill-intensive and automatable sectors. Therefore, developing countries today do not specialize in low-skill intensive manufacturing sectors and jump onto service sectors.
-</details>
-
-**"Granular Origins of Agglomeration"**<br>
-with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
-*Presented at Dartmouth (Mar. 2023), Hitotsubashi (May 2023), UEA in Toronto (Oct. 2023), UTokyo (Dec. 2023, scheduled)*<br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	A few large firms dominate many local labor markets. This leaves workers vulnerable to firm-specific shocks. If one firm has a bad productivity shock in a small market, workers will be stuck with that unproductive employer, while in a large labor market, workers can move to another firm. Building on that insight, we present a model of local labor markets with a finite number of firms subject to idiosyncratic shocks. We show that there are increasing returns to scale which disappear as the number of firms goes to infinity. We also show that there can be under-entry of firms, especially in small markets. We then test the main mechanism in Japanese administrative data. We first confirm that payroll is less volatile in larger, less concentrated local labor markets. We also show that establishments with larger payroll shares respond less in adjusting employment to a demand shock. Finally, we propose a quantitative, granular model of economic geography with free entry of firms and costly mobility of workers across sectors and commuting zones that could be used to quantify the mechanism and do counterfactuals.
 </details>
 
 **"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
