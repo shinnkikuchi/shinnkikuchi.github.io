@@ -57,4 +57,4 @@ Juan Martínez,
 Takanori Nishida, 
 <a href="https://sites.google.com/site/kensuketeshima/" target="_blank">Kensuke Teshima</a>, 
  <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
-*Presented at Tohoku (Feb., May 2023), UTokyo (June 2023), Kyoto Applied Econ (July 2023), Kobe (Jan. 2023)*<br>
+*Presented at Tohoku (Feb., May 2023), UTokyo (June 2023), Kyoto Applied Econ (July 2023), Kobe (Jan. 2024)*<br>
