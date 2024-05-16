@@ -49,16 +49,3 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	<summary>Abstract</summary>
 	I study how automation and production fragmentation affect comparative advantage and structural change in an open economy. Previously, developing countries had a comparative advantage in low-skill-intensive manufacturing sectors because of their low-skill-labor abundance. Recently, however, I show that this relationship has weakened—or even reversed. This decoupling of skill and trade occurs because automation and production fragmentation allow developed countries to rely on low-cost machines or foreign labor rather than high-cost domestic labor. Therefore, developing countries today do not specialize in low-skill intensive manufacturing sectors and jump onto service sectors.
 </details>
-
-**"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
-with Shota Komatsu, 
-Juan Martínez, 
-<a href="https://knakajima.weebly.com/" target="_blank">Kentaro Nakajima</a>, 
-Takanori Nishida, 
-<a href="https://sites.google.com/site/kensuketeshima/" target="_blank">Kensuke Teshima</a>, 
- <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
-*Presented at Tohoku (Feb., May 2023), UTokyo (June 2023), Kyoto Applied Econ (July 2023), Kobe (Jan. 2024), Hitotsubashi (June. 2024)*<br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	In-person business meetings are a critical driver of agglomeration benefits, yet the scarcity of data has hindered exploration into their nature. This study leverages a novel dataset obtained from a business card exchange application to examine the impact of geographical distance on business card exchanges and other types of business networks. By analyzing the moving of firms, we find a distinct pattern in how the frequency of business card exchanges decreases with distance, particularly noting a significant drop beyond a 500-meter radius. Additionally, we observe that the rate of decline in these exchanges due to distance closely correlates with the level of industry agglomeration, and we find similar drops in other types of business networks like patent collaborations. These findings highlight the pivotal role of very local interaction in fostering agglomeration benefits. 
-</details>
