@@ -44,8 +44,8 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 
 ## SELECTED WORK IN PROGRESS
 
-**"Automation, Fragmentation, and Comparative Advantage"**<br>
-*The draft will be available soon*, Kobe (June. 2024)*<br>
+**"Automation, Fragmentation, and Changes in Comparative Advantage"**<br>
+*The draft will be available soon*<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	Comparative advantage is the backbone of international trade, but little is known about its changes over time. First, I empirically show that developing countries used to have a comparative advantage in low-skill-intensive industries, but this relationship has weakened since the late 1990s and has disappeared after the 2000s. This decoupling of skills and comparative advantage is particularly present in sectors exposed to automation and fragmentation. Second, I develop a multi-sector, multi-factor trade model with automation and fragmentation. I characterize the effect of automation and fragmentation on changes in comparative advantage. Automation and production fragmentation allow developed countries to rely on machines or foreign labor, making domestic skill endowments less important in comparative advantage. Finally, through counterfactual exercises, I demonstrate the greater importance of automation and illustrate that, without automation in developed countries, developing countries would have specialized in low-skill-intensive sectors.
