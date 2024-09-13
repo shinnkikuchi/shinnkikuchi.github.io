@@ -41,11 +41,11 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-## SELECTED WORK IN PROGRESS
+## Job Market Paper
 
-**"Automation, Fragmentation, and Changes in Comparative Advantage"**<br>
+**"The Surprising Evolution of Comparative Advantage:Why Does Skill Abundance No Longer Matter?"**<br>
 *The draft will be available soon*<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
-	This paper documents a striking change in the pattern of comparative advantage. While it has been well established that comparative advantage is partly driven by skill endowments across countries, this relationship weakened in the 1990s and disappeared by the 2000s. This paper then explores the reasons behind this shift, finding that automation and offshoring played a crucial role. Automation and offshoring allow developed countries to rely on machines or foreign labor, making domestic skill endowments less important in comparative advantage.
+	This paper documents a striking change in the pattern of comparative advantage and examines the reasons and implications. First, while it has been well established that comparative advantage is partly driven by skill abundance across countries, I show that the relationship weakened in the 1990s and disappeared by the 2000s. Second, I explore the reasons behind this shift, finding that automation and offshoring played a crucial role.  Automation and offshoring allow developed countries to rely on machines or foreign labor, making domestic skill abundance less important for comparative advantage in skill-intensive sectors.
 </details>
