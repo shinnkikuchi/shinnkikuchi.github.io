@@ -5,9 +5,12 @@
 layout: home
 title: Home
 ---
-I am a 5th-year PhD student at MIT Economics.
+6th-year PhD student at MIT Economics.
 
-My research interests are Macroeconomics, International Trade, and Political Economy.
+Primary Fields: International Trade and Macroeconomics<br>
+Secondary Fields: Labor Economics and Political Economy
+
+I am on the 2024-2025 job market.
 
 Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>
 
