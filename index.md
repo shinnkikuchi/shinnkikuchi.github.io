@@ -43,9 +43,9 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 
 ## Work in Progress
 
-**"The Surprising Evolution of Comparative Advantage:Why Does Skill Abundance No Longer Matter?"**<br>
+**"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<br>
 *The draft will be available soon*<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
-	This paper documents a striking change in the pattern of comparative advantage and examines the reasons and implications. 
+	I document a new fact about the evolution of comparative advantage and its causes and implications. First, while comparative advantage has long been influenced by skill abundance across countries, this relationship weakened in the 1990s and disappeared by the 2000s. Moreover, skill abundance now plays a smaller role in shaping trade patterns in countries and sectors with more automation, with no significant variation observed with offshoring. Second, I develop a quantitative general equilibrium trade model using a task-based framework to explain this decline. Automation and offshoring replace domestic low-skill workers with machines and foreign intermediates, reducing the importance of low-skilled labor for comparative advantage. While both factors can qualitatively explain the decline, automation—not offshoring—accounts for most of the decrease. Finally, I examine the implications for macro aggregates, such as manufacturing shares, skill premia, and welfare. Automation shifts global manufacturing from low-skill-abundant to high-skill-abundant countries and raises skill premia worldwide. Offshoring, by contrast, moves production from high-skill-abundant and low-offshoring countries to either low-skill-abundant or high-offshoring countries, reducing skill premia in low-skill-abundant countries.
 </details>
