@@ -7,8 +7,8 @@ title: Home
 ---
 6th-year PhD student at MIT Economics.
 
-Primary Fields: International Trade and Macroeconomics<br>
-Secondary Fields: Labor Economics and Political Economy
+Primary Fields: Trade and Macro<br>
+Secondary Fields: Labor and Political Economy
 
 I am on the 2024-2025 job market.
 
