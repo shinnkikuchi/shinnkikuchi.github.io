@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-I am a 6th-year PhD student at MIT Economics. I am a macroeconomist with particular focus on Trade and Labor. I also work on projects in Political Economy. All of my research leverage micro-data.
+I am a 6th-year PhD student at MIT Economics. I am a macroeconomist with a particular focus on Trade and Labor. I also work on projects in Political Economy. All of my research leverage micro-data.
 
 Prior to my PhD, I was a business analyst at McKinsey & Company. I hold an MA and BA in Economics from University of Tokyo.
 
