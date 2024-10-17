@@ -12,6 +12,7 @@ Prior to my PhD, I was a business analysis at McKinsey. I hold an MA and BA in E
 I am on the 2024-2025 job market.
 
 Primary Fields: Trade and Macro
+
 Secondary Fields: Labor and Political Economy
 
 Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>
