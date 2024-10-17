@@ -16,7 +16,7 @@ Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf"
 
 ## JOB MARKET PAPER
 
-**"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Download PDF]</a><br>
+**"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> [Download PDF]</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	This paper documents new facts about the evolution of comparative advantage and explores the causes and implications of this evolution. The key finding is that a country's skill abundance once implied a comparative advantage in skill-intensive sectors, but this relationship weakened in the 1990s and disappeared by the 2000s. I show that larger declines in the importance of skill abundance occur in countries and sectors with higher levels of automation, with no significant—or even opposite—variation observed with offshoring. A multi-sector quantitative trade model incorporating both automation and offshoring finds that automation, rather than offshoring, is the primary driver behind the change in comparative advantage, and that, without automation, skill abundance would have remained important after 2000. Automation increases skill premia in high-automation, developed countries and increases welfare globally while offshoring yields positive but smaller and more evenly distributed welfare effects.
@@ -24,7 +24,7 @@ Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf"
 
 ## WORKING PAPERS
 
-**"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[Download PDF]</a><br>
+**"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Download PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
@@ -49,7 +49,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-## Work in Progress
+## Selected Work in Progress
 
 **"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
 with Shota Komatsu, 
@@ -77,10 +77,31 @@ with  <a href="https://tisharagarg.github.io/" target="_blank">Tishara Garg</a> 
  <a href="https://www.edward-wiles.com/" target="_blank">Edward Wiles</a>
 <br>
 <details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama’s 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
+<summary>Abstract</summary>
+We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama’s 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
 </details>
 
 
 **"Long-run Implications of Labor Market Power in the United States"** <br>
 (approved US Census Project) <br>
+
+## Policy Papers/Notes
+
+**"Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan"** <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Download PDF]</a><br>
+with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
+ <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
+*Journal of the Japanese and International Economies, Volume 59, March 2021* <br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+Effects of the COVID-19 shocks in the Japanese labor market vary across workers of different age groups, genders, employment types, education levels, occupations, and industries. We document heterogeneous changes in employment and earnings in response to the COVID-19 shocks, observed in various data sources during the initial months after the onset of the pandemic in Japan. We then feed these shocks into a life-cycle model of heterogeneous agents to quantify welfare consequences of the COVID-19 shocks.
+In each dimension of the heterogeneity, the shocks are amplified for those who earned less prior to the crisis. Contingent workers are hit harder than regular workers, younger workers than older workers, females than males, and workers engaged in social and non-flexible jobs than those in ordinary and flexible jobs. The most severely hurt by the COVID-19 shocks has been a group of female, contingent, low-skilled workers, engaged in social and non-flexible jobs and without a spouse of a different group.
+</details>
+
+**"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"** <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Download PDF]</a><br>
+with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
+ <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
+ <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VOXEU</a><br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+We study how the COVID-19 crisis could affect earnings inequality across heterogeneous individuals in Japan. We use the Employment Status Survey (ESS) to identify groups of individuals who are more vulnerable to the COVID-19 shocks, which likely affect workers in different industries, occupations, and employment types in different magnitude. We assess the impact using various data and early evidence including expenditures data from the JCB Consumption NOW during the first weeks of the pandemic. Our study identifies significant heterogeneity in vulnerability to the COVID-19 shocks across workers of different types. We find that the crisis will hit low-income groups by more and is likely to significantly exacerbate inequality through multiple channels, calling for urgent and large-scale assistance targeted towards affected individuals.
+</details>
