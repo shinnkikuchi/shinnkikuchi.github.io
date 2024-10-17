@@ -14,12 +14,18 @@ I am on the 2024-2025 job market.
 
 Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>
 
+## JOB MARKET PAPER
+
+**"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Download PDF]</a><br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary>Abstract</summary>
+	This paper documents new facts about the evolution of comparative advantage and explores the causes and implications of this evolution. The key finding is that a country's skill abundance once implied a comparative advantage in skill-intensive sectors, but this relationship weakened in the 1990s and disappeared by the 2000s. I show that larger declines in the importance of skill abundance occur in countries and sectors with higher levels of automation, with no significant—or even opposite—variation observed with offshoring. A multi-sector quantitative trade model incorporating both automation and offshoring finds that automation, rather than offshoring, is the primary driver behind the change in comparative advantage, and that, without automation, skill abundance would have remained important after 2000. Automation increases skill premia in high-automation, developed countries and increases welfare globally while offshoring yields positive but smaller and more evenly distributed welfare effects.
+</details>
 
 ## WORKING PAPERS
 
 **"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[Download PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
-*Last Updated, April. 2024* <br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	A few large firms dominate many local labor markets. This leaves workers vulnerable to firm-specific shocks. If one firm has a bad productivity shock in a small market, workers will be stuck with that unproductive employer, while in a large labor market, workers can move to another firm. Building on that insight, we present a model of local labor markets with a finite number of firms subject to idiosyncratic shocks. We show that there are increasing returns to scale which disappear as the number of firms goes to infinity. We also show that there can be under-entry of firms, especially in small markets. We then test the main mechanism in Japanese administrative data. We first confirm that payroll is less volatile in larger, less concentrated local labor markets. We also show that establishments with larger payroll shares adjust their employment less in response to a demand shock. Finally, we propose a quantitative, granular model of economic geography with free entry of firms and costly mobility of workers across sectors and commuting zones that we use to quantify the mechanism and do counterfactuals.
@@ -29,7 +35,7 @@ with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
 <a href="https://noamgidron.com/" target="_blank">Noam Gidron</a>, 
 and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
-*Last Updated, Feb. 2024*; <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VOXEU</a><br>
+ <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VOXEU</a><br>
 *Reject and Resubmit at Journal of Political Economy* <br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
@@ -38,7 +44,6 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
 
 **"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Download PDF]</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
-*Last Updated, July 2020*<br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
@@ -46,9 +51,36 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 
 ## Work in Progress
 
-**"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<br>
-*The draft will be available soon*<br>
+**"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
+with Shota Komatsu, 
+Juan Martínez, 
+<a href="https://knakajima.weebly.com/" target="_blank">Kentaro Nakajima</a>, 
+Takanori Nishida, 
+<a href="https://sites.google.com/site/kensuketeshima/" target="_blank">Kensuke Teshima</a>, and
+ <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
-	I document a new fact about the evolution of comparative advantage and its causes and implications. First, while comparative advantage has long been influenced by skill abundance across countries, this relationship weakened in the 1990s and disappeared by the 2000s. Moreover, skill abundance now plays a smaller role in shaping trade patterns in countries and sectors with more automation, with no significant variation observed with offshoring. Second, I develop a quantitative general equilibrium trade model using a task-based framework to explain this decline. Automation and offshoring replace domestic low-skill workers with machines and foreign intermediates, reducing the importance of low-skilled labor for comparative advantage. While both factors can qualitatively explain the decline, automation—not offshoring—accounts for most of the decrease. Finally, I examine the implications for macro aggregates, such as manufacturing shares, skill premia, and welfare. Automation shifts global manufacturing from low-skill-abundant to high-skill-abundant countries and raises skill premia worldwide. Offshoring, by contrast, moves production from high-skill-abundant and low-offshoring countries to either low-skill-abundant or high-offshoring countries, reducing skill premia in low-skill-abundant countries.
+	In-person business meetings are a critical driver of agglomeration benefits, yet the scarcity of data has hindered exploration into their nature. This study leverages a novel dataset obtained from a business card exchange application, used by 0.4 million workers in Tokyo, to examine the impact of geographical distance on business card exchanges and other types of business networks. By analyzing the moving of firms, we find a distinct pattern in how the frequency of business card exchanges decreases with distance, particularly noting a significant drop beyond a 500-meter radius. Additionally, we observe that the rate of decline in these exchanges due to distance closely correlates with the level of industry agglomeration, and we find similar drops in other types of business networks such as patent collaborations. These findings highlight the pivotal role of very local interaction in fostering agglomeration benefits.
 </details>
+
+
+**"Optimal Industry Mix with Granular Shocks"** <br>
+with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary>Abstract</summary>
+	When firms are subject to granular and industry-wide shocks, regions overspecialize, leaving workers overexposed. Using German employer-employee matched data, we study the optimal industrial policy incorporating heterogeneity in occupation, industry, and region.
+</details>
+
+
+**"Trade, Deindustrialization, and Service-led Growth"** <br>
+with  <a href="https://tisharagarg.github.io/" target="_blank">Tishara Garg</a> and
+ <a href="https://www.edward-wiles.com/" target="_blank">Edward Wiles</a>
+<br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary>Abstract</summary>
+	We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama’s 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
+</details>
+
+
+**"Long-run Implications of Labor Market Power in the United States"** <br>
+(approved US Census Project) <br>
