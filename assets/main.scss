@@ -4,6 +4,14 @@
 
 @import "minima";
 
+// Custom styles to reduce side padding for the main content area
+.page {
+  max-width: 100%;  // Allow content to stretch fully across the screen
+  padding-left: 2rem;  // Reduce the left padding (adjust as needed)
+  padding-right: 2rem; // Reduce the right padding (adjust as needed)
+}
+
+// Existing columns setup
 .columnright {
   float: right;
   width: 65%;
@@ -13,4 +21,3 @@
   float: left;
   width: 35%;
 }
-
