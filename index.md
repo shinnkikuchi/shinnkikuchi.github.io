@@ -81,10 +81,11 @@ We examine the impact of trade liberalization on structural change patterns in I
 
 <hr>
 
-## Policy Papers/Notes
+## Policy Papers
 
 **"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Download PDF]</a><br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
+Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
 *Revise and Resubmit at Journal of the Japanese and International Economies* <br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
@@ -104,6 +105,7 @@ In each dimension of the heterogeneity, the shocks are amplified for those who e
 **"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"** <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Download PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
+ Discussion Paper 20-E-039, Research Institute of Economy, Trade and Industry (RIETI).<br>
  <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VOXEU</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
