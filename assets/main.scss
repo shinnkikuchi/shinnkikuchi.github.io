@@ -13,13 +13,35 @@
 .columnleft {
   float: left;
   width: 35%;  // Left side for image
+  margin-right: 2rem;  // Adjust as needed for spacing between image and text
 }
 
-// Clear the float for the second half (papers section)
+// Fullwidth section for papers (ensure alignment)
 .fullwidth {
   clear: both; // Ensures this section starts below the columns
-  width: 100%; // Full width for the papers
-  padding-left: 2rem;  // Adjust as needed to control the side padding
+  width: 100%; // Full width for the papers section
+  padding-left: 0;  // Ensure no extra padding on the left
   padding-right: 2rem; // Adjust as needed to control the side padding
   box-sizing: border-box; // Ensures padding is included within the total width
+}
+
+// Container to wrap the whole content for alignment
+.container {
+  padding-left: 2rem; /* Controls the left padding for the whole content */
+  padding-right: 2rem; /* Adjust as needed for consistent right padding */
+}
+
+// Custom styling for the horizontal line
+hr.custom-line {
+  border: 0;
+  height: 1px; /* Thickness of the line */
+  background-color: #ccc; /* Line color */
+  margin-top: 2rem; /* Adjust for spacing above */
+  margin-bottom: 2rem; /* Adjust for spacing below */
+}
+
+// Ensure image is treated as a block element and properly aligned
+.columnleft img {
+  display: block;  // Ensures the image is treated as a block
+  margin-left: 0;  // Align the image with the rest of the content
 }
