@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-## JOB MARKET PAPER
+## Job Market Paper
 
 **"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> [Download PDF]</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -13,7 +13,7 @@ title: Home
 	This paper documents new facts about the evolution of comparative advantage and explores the causes and implications of this evolution. The key finding is that a country's skill abundance once implied a comparative advantage in skill-intensive sectors, but this relationship weakened in the 1990s and disappeared by the 2000s. I show that larger declines in the importance of skill abundance occur in countries and sectors with higher levels of automation, with no significant—or even opposite—variation observed with offshoring. A multi-sector quantitative trade model incorporating both automation and offshoring finds that automation, rather than offshoring, is the primary driver behind the change in comparative advantage, and that, without automation, skill abundance would have remained important after 2000. Automation increases skill premia in high-automation, developed countries and increases welfare globally while offshoring yields positive but smaller and more evenly distributed welfare effects.
 </details>
 
-## WORKING PAPERS
+## Working Papers
 
 **"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Download PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
