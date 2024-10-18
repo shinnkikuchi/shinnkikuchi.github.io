@@ -5,17 +5,6 @@
 layout: home
 title: Home
 ---
-I am a 6th-year PhD student in Economics at MIT. I specialize in trade and macroeconomics often at the intersection with labor economics. I also work on projects in political economy. All of my research uses micro-data.
-
-Before my PhD, I worked as a business analyst at McKinsey & Company. I hold both an MA and a BA in Economics from the University of Tokyo.
-
-I am on the 2024-2025 job market.
-
-Primary Fields: Trade and Macro <br>
-Secondary Fields: Labor and Political Economy
-
-Links/PDF: [Email](mailto:skikuchi@mit.edu), <a href="/files/ShinKikuchi_CV.pdf" target="_blank">CV</a>
-
 ## JOB MARKET PAPER
 
 **"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> [Download PDF]</a><br>

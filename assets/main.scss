@@ -4,20 +4,22 @@
 
 @import "minima";
 
-// Custom styles to reduce side padding for the main content area
-.page {
-  max-width: 100%;  // Allow content to stretch fully across the screen
-  padding-left: 2rem;  // Reduce the left padding (adjust as needed)
-  padding-right: 2rem; // Reduce the right padding (adjust as needed)
-}
-
-// Existing columns setup
+// Columns for profile section (Image and Text side-by-side)
 .columnright {
   float: right;
-  width: 65%;
+  width: 65%;  // Right side for text (profile)
 }
 
 .columnleft {
   float: left;
-  width: 35%;
+  width: 35%;  // Left side for image
+}
+
+// Clear the float for the second half (papers section)
+.fullwidth {
+  clear: both; // Ensures this section starts below the columns
+  width: 100%; // Full width for the papers
+  padding-left: 2rem;  // Adjust as needed to control the side padding
+  padding-right: 2rem; // Adjust as needed to control the side padding
+  box-sizing: border-box; // Ensures padding is included within the total width
 }
