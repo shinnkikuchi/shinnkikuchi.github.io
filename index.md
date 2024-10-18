@@ -91,7 +91,7 @@ We examine the impact of trade liberalization on structural change patterns in I
 
 ## Policy Papers/Notes
 
-**"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare consequences in Japan"** <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Download PDF]</a><br>
+**"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"** <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Download PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
 *Journal of the Japanese and International Economies, Volume 59, March 2021* <br>
