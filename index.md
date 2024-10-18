@@ -41,14 +41,6 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-**"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Download PDF]</a><br>
-with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
-*Revise and Resubmit at Journal of the Japanese and International Economies* <br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	We examine the implications of automation technology in Japan since 1980, comparing different local labor markets with different degrees of automation exposure. First, we do not find that automation reduces the employment rate within demographic groups and that automation encourages workers to move from regular to non-regular employment. Second, we show that automation shifts employment from routine occupations in the manufacturing sector to service sectors, while increasing the share of establishments and sales in the manufacturing sector. Finally, we show that this shift in labor demand is attributed to younger generations and non-college-educated workers.
-</details>
-
 <hr>
 
 ## Selected Work in Progress
@@ -90,6 +82,14 @@ We examine the impact of trade liberalization on structural change patterns in I
 <hr>
 
 ## Policy Papers/Notes
+
+**"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Download PDF]</a><br>
+with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
+*Revise and Resubmit at Journal of the Japanese and International Economies* <br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary>Abstract</summary>
+	We examine the implications of automation technology in Japan since 1980, comparing different local labor markets with different degrees of automation exposure. First, we do not find that automation reduces the employment rate within demographic groups and that automation encourages workers to move from regular to non-regular employment. Second, we show that automation shifts employment from routine occupations in the manufacturing sector to service sectors, while increasing the share of establishments and sales in the manufacturing sector. Finally, we show that this shift in labor demand is attributed to younger generations and non-college-educated workers.
+</details>
 
 **"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"** <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Download PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
