@@ -13,6 +13,7 @@ title: Home
 	This paper documents new facts about the evolution of comparative advantage and explores the causes and implications of this evolution. The key finding is that a country's skill abundance once implied a comparative advantage in skill-intensive sectors, but this relationship weakened in the 1990s and disappeared by the 2000s. I show that larger declines in the importance of skill abundance occur in countries and sectors with higher levels of automation, with no significant—or even opposite—variation observed with offshoring. A multi-sector quantitative trade model incorporating both automation and offshoring finds that automation, rather than offshoring, is the primary driver behind the change in comparative advantage, and that, without automation, skill abundance would have remained important after 2000. Automation increases skill premia in high-automation, developed countries and increases welfare globally while offshoring yields positive but smaller and more evenly distributed welfare effects.
 </details>
 
+<hr>
 ## Working Papers
 
 **"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Download PDF]</a><br>
@@ -48,6 +49,7 @@ with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippe
 	We examine the implications of automation technology in Japan since 1980, comparing different local labor markets with different degrees of automation exposure. First, we do not find that automation reduces the employment rate within demographic groups and that automation encourages workers to move from regular to non-regular employment. Second, we show that automation shifts employment from routine occupations in the manufacturing sector to service sectors, while increasing the share of establishments and sales in the manufacturing sector. Finally, we show that this shift in labor demand is attributed to younger generations and non-college-educated workers.
 </details>
 
+<hr>
 ## Selected Work in Progress
 
 **"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
@@ -84,6 +86,7 @@ We examine the impact of trade liberalization on structural change patterns in I
 **"Long-run Implications of Labor Market Power in the United States"** <br>
 (approved US Census Project) <br>
 
+<hr>
 ## Policy Papers/Notes
 
 **"Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan"** <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Download PDF]</a><br>
