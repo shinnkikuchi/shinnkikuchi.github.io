@@ -86,7 +86,7 @@ We examine the impact of trade liberalization on structural change patterns in I
 **"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Download PDF]</a><br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
 Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
-*Revise and Resubmit at Journal of the Japanese and International Economies* <br>
+*Accepted at Journal of the Japanese and International Economies* <br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	We examine the implications of automation technology in Japan since 1980, comparing different local labor markets with different degrees of automation exposure. First, we do not find that automation reduces the employment rate within demographic groups and that automation encourages workers to move from regular to non-regular employment. Second, we show that automation shifts employment from routine occupations in the manufacturing sector to service sectors, while increasing the share of establishments and sales in the manufacturing sector. Finally, we show that this shift in labor demand is attributed to younger generations and non-college-educated workers.
