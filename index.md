@@ -7,10 +7,10 @@ title: Home
 ---
 ## Job Market Paper
 
-**"The Evolution of Comparative Advantage: Why Skill Abundance No Longer Matters"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> [Download PDF]</a><br>
+**"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> [Download PDF]</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
-	This paper shows that a country's relative skill abundance no longer implies a comparative advantage in skill-intensive sectors. Where once this empirical relationship was strong, it weakened in the 1990s and disappeared by the 2000s. The decline is most evident in countries and sectors with higher automation, with no significant variation due to offshoring. Using a multi-sector quantitative trade model incorporating both automation and offshoring, I show that automation is the most plausible driver and that skill abundance would have remained important after 2000 without automation. Automation increases skill premia in high-automation, developed countries and increases welfare globally, while offshoring has smaller, more evenly distributed welfare gains.
+	This paper documents that skill-abundant countries no longer have a comparative advantage in skill-intensive sectors. While this empirical relationship was strong, it weakened in the 1990s and disappeared by the 2000s. The decline is only evident in countries and sectors with high automation, with no significant variation due to offshoring. Using a quantitative trade model incorporating both automation and offshoring, I confirm that observed changes in automation can account for the evolution of comparative advantage while observed changes in offshoring cannot. Through the lens of the same model, automation increases skill premia in high-automation, developed countries and increases welfare globally, while offshoring has smaller, more evenly distributed welfare gains.
 </details>
 
 <hr>
