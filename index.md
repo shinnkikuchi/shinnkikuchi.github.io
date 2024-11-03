@@ -13,9 +13,9 @@ title: Home
 	This paper documents that skill-abundant countries no longer have a comparative advantage in skill-intensive sectors. While this empirical relationship was strong, it weakened in the 1990s and disappeared by the 2000s. The decline is only evident in countries and sectors with high automation, with no significant variation due to offshoring. Using a quantitative trade model incorporating both automation and offshoring, I confirm that observed changes in automation can account for the evolution of comparative advantage while observed changes in offshoring cannot. Through the lens of the same model, automation increases skill premia in high-automation, developed countries and increases welfare globally, while offshoring has smaller, more evenly distributed welfare gains.
 </details>
 
-<p style="text-align: center;">
-![Figure from Job Market Paper](/files/research/grv_base_webpage.png){: style="max-width: 70%; height: auto; margin-top: 1rem;"}
-</p>
+<div style="text-align: center;">
+  <img src="/files/research/grv_base_webpage.png" alt="Figure from Job Market Paper" style="max-width: 70%; height: auto; margin-top: 1rem;">
+</div>
 
 
 <hr>
