@@ -29,7 +29,8 @@ with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor
 	A few large firms dominate many local labor markets. How does that granularity affect the geography of economic activity? And what does it mean for the efficiency of firm entry? To answer these questions, we propose a new economic geography model featuring granular firms subject to idiosyncratic shocks. We show that average wages increase in the size of the local labor market due to that granularity, and provide a sufficient statistic for the contribution of our mechanism. We further prove that too few firms enter in equilibrium. Using Japanese administrative data on manufacturing, we provide evidence consistent with our mechanism and quantify it. Our mechanism implies that markets with around 2 firms per sector have an elasticity of wages to population of 0.05 and firms capture only 85\% of their contribution to production in profits. In large markets like Tokyo, the elasticity is around 0.001, and firm entry is approximately efficient. Enacting optimal place-based industrial policy would increase the number of firms in modest-sized cities by more than 30\% and actually decrease the number of firms and people in Tokyo.
 </details>
 
-**"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a><a href="/files/research/slide-DGKL-Populism.pdf" target="_blank">[Slide PDF]</a><br>
+**"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/slide-DGKL-Populism.pdf" target="_blank">[Slide PDF]</a><br>
 with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>, 
 <a href="https://noamgidron.com/" target="_blank">Noam Gidron</a>, 
 and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
