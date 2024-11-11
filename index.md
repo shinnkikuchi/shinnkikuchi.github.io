@@ -9,8 +9,7 @@ title: Home
 ## Job Market Paper
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> <br>
- [Paper PDF]</a><br>
-<details style="margin-bottom: 15px; margin-top: -15px">
+ [Paper PDF]</a> <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	This paper documents that skill-abundant countries no longer have a comparative advantage in skill-intensive sectors. While this empirical relationship was strong, it weakened in the 1990s and disappeared by the 2000s. The decline is only evident in countries and sectors with high automation, with no significant variation due to offshoring. Using a quantitative trade model incorporating both automation and offshoring, I confirm that observed changes in automation can account for the evolution of comparative advantage while observed changes in offshoring cannot. Through the lens of the same model, I draw implications for the relationship between technology and inequality: automation increases skill premia in high-automation, developed countries and increases welfare globally, while offshoring has smaller, more evenly distributed welfare gains.
 </details>
