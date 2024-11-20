@@ -67,6 +67,7 @@ Takanori Nishida,
 
 **"Optimal Industry Mix with Granular Shocks"** <br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
+(IAB-FDZ Project Number: 2499) <br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
 	When firms are subject to granular and industry-wide shocks, regions overspecialize, leaving workers overexposed. Using German employer-employee matched data, we study the optimal industrial policy incorporating heterogeneity in occupation, industry, and region.
@@ -84,7 +85,7 @@ We examine the impact of trade liberalization on structural change patterns in I
 
 
 **"Long-run Implications of Labor Market Power in the United States"** <br>
-(approved US Census Project) <br>
+(approved US Census Project, Project Number 3107) <br>
 
 <hr>
 
@@ -107,7 +108,8 @@ Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
 </div>
 
 <div style="margin-bottom: 1rem;">
-<b>"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"</b> <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Paper PDF]</a><br>
+<b>"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"</b><br>
+ <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
  Discussion Paper 20-E-039, Research Institute of Economy, Trade and Industry (RIETI).<br>
