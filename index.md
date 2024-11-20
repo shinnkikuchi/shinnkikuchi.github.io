@@ -88,35 +88,23 @@ We examine the impact of trade liberalization on structural change patterns in I
 
 <hr>
 
-## Policy Papers
+## Others
 <details>
-
+<summary>Policy Papers</summary>
 **"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
 Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
 *Accepted at Journal of the Japanese and International Economies* <br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	We examine the implications of automation technology in Japan since 1980, comparing different local labor markets with different degrees of automation exposure. First, we do not find that automation reduces the employment rate within demographic groups and that automation encourages workers to move from regular to non-regular employment. Second, we show that automation shifts employment from routine occupations in the manufacturing sector to service sectors, while increasing the share of establishments and sales in the manufacturing sector. Finally, we show that this shift in labor demand is attributed to younger generations and non-college-educated workers.
-</details>
 
 **"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"** <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
 *Journal of the Japanese and International Economies, Volume 59, March 2021* <br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-Effects of the COVID-19 shocks in the Japanese labor market vary across workers of different age groups, genders, employment types, education levels, occupations, and industries. We document heterogeneous changes in employment and earnings in response to the COVID-19 shocks, observed in various data sources during the initial months after the onset of the pandemic in Japan. We then feed these shocks into a life-cycle model of heterogeneous agents to quantify welfare consequences of the COVID-19 shocks.
-In each dimension of the heterogeneity, the shocks are amplified for those who earned less prior to the crisis. Contingent workers are hit harder than regular workers, younger workers than older workers, females than males, and workers engaged in social and non-flexible jobs than those in ordinary and flexible jobs. The most severely hurt by the COVID-19 shocks has been a group of female, contingent, low-skilled workers, engaged in social and non-flexible jobs and without a spouse of a different group.
-</details>
 
 **"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"** <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
  Discussion Paper 20-E-039, Research Institute of Economy, Trade and Industry (RIETI).<br>
  <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VOXEU</a><br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-We study how the COVID-19 crisis could affect earnings inequality across heterogeneous individuals in Japan. We use the Employment Status Survey (ESS) to identify groups of individuals who are more vulnerable to the COVID-19 shocks, which likely affect workers in different industries, occupations, and employment types in different magnitude. We assess the impact using various data and early evidence including expenditures data from the JCB Consumption NOW during the first weeks of the pandemic. Our study identifies significant heterogeneity in vulnerability to the COVID-19 shocks across workers of different types. We find that the crisis will hit low-income groups by more and is likely to significantly exacerbate inequality through multiple channels, calling for urgent and large-scale assistance targeted towards affected individuals.
-</details>
-</details>
+ 
+ </details>
