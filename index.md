@@ -89,7 +89,8 @@ We examine the impact of trade liberalization on structural change patterns in I
 <hr>
 
 ## Policy Papers
-<details style="margin-bottom: 15px; margin-top: -15px">
+<details>
+
 **"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
 Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
