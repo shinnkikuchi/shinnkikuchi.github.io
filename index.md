@@ -89,7 +89,7 @@ We examine the impact of trade liberalization on structural change patterns in I
 <hr>
 
 ## Policy Papers
-
+<details style="margin-bottom: 15px; margin-top: -15px">
 **"Automation and the Disappearance of Routine Work in Japan"** <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
 Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
@@ -117,4 +117,5 @@ with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">S
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
 We study how the COVID-19 crisis could affect earnings inequality across heterogeneous individuals in Japan. We use the Employment Status Survey (ESS) to identify groups of individuals who are more vulnerable to the COVID-19 shocks, which likely affect workers in different industries, occupations, and employment types in different magnitude. We assess the impact using various data and early evidence including expenditures data from the JCB Consumption NOW during the first weeks of the pandemic. Our study identifies significant heterogeneity in vulnerability to the COVID-19 shocks across workers of different types. We find that the crisis will hit low-income groups by more and is likely to significantly exacerbate inequality through multiple channels, calling for urgent and large-scale assistance targeted towards affected individuals.
+</details>
 </details>
