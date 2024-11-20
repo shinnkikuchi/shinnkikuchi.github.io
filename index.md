@@ -91,20 +91,27 @@ We examine the impact of trade liberalization on structural change patterns in I
 ## Others
 <details>
 <summary>Policy Papers</summary>
+
+<div style="margin-bottom: 1rem;">
 <b>"Automation and the Disappearance of Routine Work in Japan"</b> <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
 Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
 Accepted at Journal of the Japanese and International Economies <br>
+</div>
 
+<div style="margin-bottom: 1rem;">
 <b>"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"</b> <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
 Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
+</div>
 
+<div style="margin-bottom: 1rem;">
 <b>"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"</b> <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
  Discussion Paper 20-E-039, Research Institute of Economy, Trade and Industry (RIETI).<br>
  <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VOXEU</a><br>
+ </div>
  
  </details>
