@@ -16,7 +16,7 @@ title: Home
 </details>
 
 <div style="text-align: center;">
-  <img src="/files/research/grv_base_webpage.png" alt="Figure from Job Market Paper" style="max-width: 90%; height: auto; margin-top: 1rem;">
+  <img src="/files/research/grv_base_webpage.png" alt="Figure from Job Market Paper" style="max-width: 75%; height: auto; margin-top: 1rem;">
 </div>
 
 <hr>
