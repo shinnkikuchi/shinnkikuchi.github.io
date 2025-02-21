@@ -43,21 +43,6 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-## Publications 
-
-**"Automation and the Disappearance of Routine Work in Japan"**
-<a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
-with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
-Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
-Accepted at Journal of the Japanese and International Economies <br>
-
-
-**"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
- <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
-with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
- <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
-Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
-
 
 ## Selected Work in Progress
 
@@ -95,3 +80,19 @@ We examine the impact of trade liberalization on structural change patterns in I
 
 **"Long-run Implications of Labor Market Power in the United States"** <br>
 (approved US Census Project, Project Number 3107) <br>
+
+
+## Publications 
+
+**"Automation and the Disappearance of Routine Work in Japan"**
+<a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
+with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
+Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
+Accepted at Journal of the Japanese and International Economies <br>
+
+
+**"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
+ <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
+with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
+ <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
+Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
