@@ -6,8 +6,8 @@ layout: home
 title: Home
 ---
 <br>
-
-## Working Papers
+<hr>
+## Job Market Paper
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> <br>
  [Paper PDF]</a><br>
@@ -16,12 +16,18 @@ title: Home
 	This paper documents that skill-abundant countries no longer have a comparative advantage in skill-intensive sectors. While this empirical relationship was strong, it weakened in the 1990s and disappeared by the 2000s. The decline is only evident in countries and sectors with high automation, with no significant variation due to offshoring. Using a quantitative trade model incorporating both automation and offshoring, I confirm that observed changes in automation can account for the evolution of comparative advantage while observed changes in offshoring cannot. Through the lens of the same model, I draw implications for the relationship between technology and inequality: automation increases skill premia in high-automation, developed countries and increases welfare globally, while offshoring has smaller, more evenly distributed welfare gains.
 </details>
 
+<div style="text-align: center;">
+  <img src="/files/research/grv_base_webpage.png" alt="Figure from Job Market Paper" style="max-width: 75%; height: auto; margin-top: 1rem;">
+</div>
+
+<hr>
+## Working Papers
 
 **"The Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a><a href="/files/research/slide-KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Slide PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary>Abstract</summary>
-	A few large firms dominate many local labor markets. How does that granularity affect the geography of economic activity? And what does it mean for the efficiency of firm entry? To answer these questions, we propose a new economic geography model featuring granular firms subject to idiosyncratic shocks. We show that average wages increase in the size of the local labor market due to that granularity, and provide a sufficient statistic for the contribution of our mechanism. We further prove that too few firms enter in equilibrium. Using Japanese administrative data on manufacturing, we provide evidence consistent with our mechanism and quantify it. Our mechanism implies that markets with around 2 firms per sector have an elasticity of wages to population of 0.05 and firms capture only 85\% of their contribution to production in profits. In large markets like Tokyo, the elasticity is around 0.001, and firm entry is approximately efficient. Enacting optimal place-based industrial policy would increase the number of firms in modest-sized cities by more than 30\% and actually decrease the number of firms and people in Tokyo.
+	A few large firms dominate many local labor markets. How does that granularity affect the geography of economic activity? And what does it mean for the efficiency of firm entry? To answer these questions, we propose a new economic geography model featuring granular firms subject to idiosyncratic shocks. We show that average wages increase in the size of the local labor market due to that granularity, and provide a sufficient statistic for the contribution of our mechanism. We further prove that too few firms enter in equilibrium. Using Japanese administrative data on manufacturing, we provide evidence consistent with our mechanism and quantify it. Our mechanism implies that markets with around 2 firms per sector have an elasticity of wages to population of 0.05 and firms capture only 85% of their contribution to production in profits. In large markets like Tokyo, the elasticity is around 0.001, and firm entry is approximately efficient. Enacting optimal place-based industrial policy would increase the number of firms in modest-sized cities by more than 30% and actually decrease the number of firms and people in Tokyo.
 </details>
 
 **"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a>
@@ -43,21 +49,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-## Publications 
-
-**"Automation and the Disappearance of Routine Work in Japan"**
-<a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
-with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
-Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
-Accepted at Journal of the Japanese and International Economies <br>
-
-
-**"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
- <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
-with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
- <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
-Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
-
+<hr>
 
 ## Selected Work in Progress
 
@@ -95,3 +87,34 @@ We examine the impact of trade liberalization on structural change patterns in I
 
 **"Long-run Implications of Labor Market Power in the United States"** <br>
 (approved US Census Project, Project Number 3107) <br>
+
+<hr>
+
+## Others
+<details>
+<summary>Policy Papers</summary>
+
+<div style="margin-bottom: 1rem;">
+<b>"Automation and the Disappearance of Routine Work in Japan"</b> <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
+with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a><br>
+Discussion Paper 23-E-082, Research Institute of Economy, Trade and Industry (RIETI) <br>
+Accepted at Journal of the Japanese and International Economies <br>
+</div>
+
+<div style="margin-bottom: 1rem;">
+<b>"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"</b> <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
+with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
+ <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
+Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
+</div>
+
+<div style="margin-bottom: 1rem;">
+<b>"Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"</b><br>
+ <a href="/files/research/KKM-COVID19-note.pdf" target="_blank">[Paper PDF]</a><br>
+with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
+ <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
+ Discussion Paper 20-E-039, Research Institute of Economy, Trade and Industry (RIETI).<br>
+ <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VOXEU</a><br>
+ </div>
+ 
+ </details>
