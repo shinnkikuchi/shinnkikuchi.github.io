@@ -43,45 +43,6 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 	What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals’ responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
 </details>
 
-
-## Selected Work in Progress
-
-**"Geography of Business Interactions: Evidence from Business Card Exchange Data"** <br>
-with Shota Komatsu, 
-Juan Martínez, 
-<a href="https://knakajima.weebly.com/" target="_blank">Kentaro Nakajima</a>, 
-Takanori Nishida, 
-<a href="https://sites.google.com/site/kensuketeshima/" target="_blank">Kensuke Teshima</a>, and
- <a href="https://www.junichiyamasaki.com/" target="_blank">Junichi Yamasaki</a><br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	In-person business meetings are a critical driver of agglomeration benefits, yet the scarcity of data has hindered exploration into their nature. This study leverages a novel dataset obtained from a business card exchange application, used by 0.4 million workers in Tokyo, to examine the impact of geographical distance on business card exchanges and other types of business networks. By analyzing the moving of firms, we find a distinct pattern in how the frequency of business card exchanges decreases with distance, particularly noting a significant drop beyond a 500-meter radius. Additionally, we observe that the rate of decline in these exchanges due to distance closely correlates with the level of industry agglomeration, and we find similar drops in other types of business networks such as patent collaborations. These findings highlight the pivotal role of very local interaction in fostering agglomeration benefits.
-</details>
-
-
-**"Optimal Industry Mix with Granular Shocks"** <br>
-with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
-(IAB-FDZ Project Number: 2499) <br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>Abstract</summary>
-	When firms are subject to granular and industry-wide shocks, regions overspecialize, leaving workers overexposed. Using German employer-employee matched data, we study the optimal industrial policy incorporating heterogeneity in occupation, industry, and region.
-</details>
-
-
-**"Trade, Deindustrialization, and Service-led Growth"** <br>
-with  <a href="https://tisharagarg.github.io/" target="_blank">Tishara Garg</a> and
- <a href="https://www.edward-wiles.com/" target="_blank">Edward Wiles</a>
-<br>
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama’s 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
-</details>
-
-
-**"Long-run Implications of Labor Market Power in the United States"** <br>
-(approved US Census Project, Project Number 3107) <br>
-
-
 ## Publications 
 
 **"Automation and the Disappearance of Routine Work in Japan"**
