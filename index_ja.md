@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home_ja
 title: 日本語
 permalink: /ja/
 ---
