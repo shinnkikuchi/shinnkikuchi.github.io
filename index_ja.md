@@ -56,9 +56,9 @@ permalink: /ja/
    1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">自動化とオフショアリングによるタスクの代替が日本の賃金格差に与える影響</a> RIETI ノンテクニカル・サマリー 2024年4月  
 
 3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">Automation and the Disappearance of Routine Work in Japan</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月（藤原一平さん、代田豊一郎さんとの共著）  
-
-4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
+   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月（藤原一平さん、代田豊一郎さんとの共著
+   
+4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>
 
 5. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
    1. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">Heterogeneous employment vulnerability and inequality in Japan</a> VoxEU Column 2020年5月（北尾早霧さん、御子柴みなもさんとの共著）  
@@ -68,22 +68,20 @@ permalink: /ja/
 ---
 
 ## その他 
----
 ### 紹介記事や書きもの
 
-1. <a href="https://www.web-nippyo.jp/32897/" target="_blank">海外論文SURVEY テレワークは生産性を上げるのか？—ランダム化比較試験による実証</a> 経済セミナー2023年10・11月号
-2. <a href="https://www.web-nippyo.jp/32030/" target="_blank">海外論文SURVEY 政治的なコネと経済成長</a> 経済セミナー2023年6・7月号
-3. <a href="https://www.web-nippyo.jp/29934/" target="_blank">海外論文SURVEY 「バナナ共和国」は本当に搾取的だったのか?</a> 経済セミナー2022年12月・2023年1月号
+1. <a href="https://www.web-nippyo.jp/32897/" target="_blank">海外論文SURVEY テレワークは生産性を上げるのか？ランダム化比較試験による実証</a> 経済セミナー2023年10/11月号
+2. <a href="https://www.web-nippyo.jp/32030/" target="_blank">海外論文SURVEY 政治的なコネと経済成長</a> 経済セミナー2023年6/7月号
+3. <a href="https://www.web-nippyo.jp/29934/" target="_blank">海外論文SURVEY 「バナナ共和国」は本当に搾取的だったのか?</a> 経済セミナー2022年12月/2023年1月号
 4. <a href="https://www.web-nippyo.jp/28418/" target="_blank">〖座談会〗実際、学術論文にどう向き合っている？</a> 経済セミナー2022年8/9月号
 5. <a href="https://www.web-nippyo.jp/27700/" target="_blank">海外論文SURVEY 家計の消費バスケットにおける企業の異質性</a> 経済セミナー2022年8/9月号
 6. <a href="https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/076-077.pdf" target="_blank">論文Today 職場における学習効果を測る</a> 日本労働研究雑誌2022年4月号
-7. <a href="https://www.web-nippyo.jp/25367/" target="_blank">海外論文SURVEY Home-market effectの実証</a>　経済セミナー2021年12月・2022年1月号
+7. <a href="https://www.web-nippyo.jp/25367/" target="_blank">海外論文SURVEY Home-market effectの実証</a>　経済セミナー2021年12月/2022年1月号
 8. <a href="https://www.web-nippyo.jp/23540/" target="_blank">海外論文SURVEY 港湾都市に対する集中的なインフラ投資の帰結</a> 経済セミナー2021年6/7月号
 9. <a href="https://note.com/keisemi/n/n99c0b87f88f4" target="_blank">経済学Ph.D.留学アウトリーチ企画2020年冬 経済学Ph.D.について知ろう！</a> 経済セミナー2021年6/7月号
 10. <a href="https://www.web-nippyo.jp/20680/" target="_blank">〖巻頭インタビュー〗この人を訪ねて vol.22 新型コロナウイルスが労働者に与える影響とは</a> 経済セミナー2020年10/11月号
 11. <a href="https://www.rieti.go.jp/jp/columns/a01_0607.html" target="_blank">コロナ危機は、企業の退出にどのような影響を及ぼしたか？</a> RIETIコラム 2020年7月10日掲載（Gee Hee Hongさん、齊藤有希子さんとの共著）  
 
----
 
 ### メディア出演（のうちのいくつか）
 
@@ -97,10 +95,7 @@ permalink: /ja/
    YouTube PIVOT 2023年12月  
 5. アベマプライム：2023/10/27, 2023/11/7  
 
----
 
 ### 経済学PhDについてのアウトリーチ活動
 
-<a href="https://sites.google.com/view/shinnosukekikuchi/PhD-outreach-page" target="_blank">PhDアウトリーチのページ</a>をご覧ください  
-
----
+<a href="https://sites.google.com/view/shinnosukekikuchi/PhD-outreach-page" target="_blank">PhDアウトリーチのページ</a>をご覧ください。
