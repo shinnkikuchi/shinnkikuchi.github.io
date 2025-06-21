@@ -57,6 +57,8 @@ plugins:
 
 exclude:
   - _posts
+  - _README.md
+  - _research.md
 
 header_pages:
   - index.md
