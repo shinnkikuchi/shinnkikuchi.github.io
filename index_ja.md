@@ -30,8 +30,9 @@ permalink: /ja/
 ---
 ## 主な研究内容
 
-1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century</a>  
-   _Job Market Paper_  
+1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century</a> Job Market Paper  
+   1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5295171" target="_blank">SSRN</a>
+
 
 2. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">The Granular Origins of Agglomeration</a> (joint with Daniel G O'Connor)  
    1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">企業数の有限性に起因する規模の経済と、経済集積への帰結</a> RIETI ノンテクニカル・サマリー 2024年1月  
@@ -56,9 +57,10 @@ permalink: /ja/
    1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">自動化とオフショアリングによるタスクの代替が日本の賃金格差に与える影響</a> RIETI ノンテクニカル・サマリー 2024年4月  
 
 3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">Automation and the Disappearance of Routine Work in Japan</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月（藤原一平さん、代田豊一郎さんとの共著
+   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月（藤原一平さん、代田豊一郎さんとの共著）
    
-4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>
+4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
+   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">コロナ危機で最も影響を受けるのは誰なのか？　労働市場の異質性と厚生分析</a> RIETI ノンテクニカル・サマリー 2020年7月（（北尾早霧さん、御子柴みなもさんとの共著） 
 
 5. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
    1. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">Heterogeneous employment vulnerability and inequality in Japan</a> VoxEU Column 2020年5月（北尾早霧さん、御子柴みなもさんとの共著）  
