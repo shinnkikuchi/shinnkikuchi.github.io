@@ -27,11 +27,10 @@ permalink: /ja/
 - 2016年　東京大学経済学部経済学科 卒業; <a href="https://www.u-tokyo.ac.jp/focus/ja/articles/t_z1301_00010.html" target="_blank">卒業生総代（首席）</a>  
 - 2012年　京都 洛南高校卒業
 
----
+
 ## 主な研究内容
 
 1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century</a> Job Market Paper  
-   1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5295171" target="_blank">SSRN</a>
 
 
 2. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">The Granular Origins of Agglomeration</a> (joint with Daniel G O'Connor)  
@@ -43,10 +42,9 @@ permalink: /ja/
    2. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">Decomposing the rise of the populist radical right: How changes in priorities explain the electoral politics of our time</a> VoxEU Column 2023年4月  
 
 4. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle</a> (joint with Sagiri Kitao)  
-   1. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">米国における中間層の消失：教育水準や世代における格差拡大の観点</a> RIETIコラム 2020年7月3日掲載（北尾早霧さんとの共著）  
+   1. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">米国における中間層の消失：教育水準や世代における格差拡大の観点</a> RIETIコラム 2020年7月3日掲載
    2. <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 週刊東洋経済Plus 2019年5月18日掲載  
 
----
 
 ## 日本の労働市場に関する研究・レポート
 
@@ -57,32 +55,34 @@ permalink: /ja/
    1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">自動化とオフショアリングによるタスクの代替が日本の賃金格差に与える影響</a> RIETI ノンテクニカル・サマリー 2024年4月  
 
 3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">Automation and the Disappearance of Routine Work in Japan</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月（藤原一平さん、代田豊一郎さんとの共著）
+   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月
    
 4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
-   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">コロナ危機で最も影響を受けるのは誰なのか？　労働市場の異質性と厚生分析</a> RIETI ノンテクニカル・サマリー 2020年7月（（北尾早霧さん、御子柴みなもさんとの共著） 
+   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">コロナ危機で最も影響を受けるのは誰なのか？　労働市場の異質性と厚生分析</a> RIETI ノンテクニカル・サマリー 2020年7月
 
 5. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
-   1. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">Heterogeneous employment vulnerability and inequality in Japan</a> VoxEU Column 2020年5月（北尾早霧さん、御子柴みなもさんとの共著）  
-   2. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">新型コロナ（COVID-19）危機が引き起こす格差の拡大</a> CREPEコラム 2020年5月掲載（北尾早霧さん、御子柴みなもさんとの共著）  
-   3. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章に所収。（北尾早霧さん、御子柴みなもさんとの共著）  
+   1. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">Heterogeneous employment vulnerability and inequality in Japan</a> VoxEU Column 2020年5月
+   2. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">新型コロナ（COVID-19）危機が引き起こす格差の拡大</a> CREPEコラム 2020年5月掲載
+   3. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章に所収
 
----
+
 
 ## その他 
 ### 紹介記事や書きもの
+1. <a href="https://www.web-nippyo.jp/28418/" target="_blank">〖座談会〗実際、学術論文にどう向き合っている？</a> 経済セミナー2022年8/9月号
+2. <a href="https://note.com/keisemi/n/n99c0b87f88f4" target="_blank">経済学Ph.D.留学アウトリーチ企画2020年冬 経済学Ph.D.について知ろう！</a> 経済セミナー2021年6/7月号
+3. <a href="https://www.web-nippyo.jp/20680/" target="_blank">〖巻頭インタビュー〗この人を訪ねて vol.22 新型コロナウイルスが労働者に与える影響とは</a> 経済セミナー2020年10/11月号
+4. <a href="https://www.rieti.go.jp/jp/columns/a01_0607.html" target="_blank">コロナ危機は、企業の退出にどのような影響を及ぼしたか？</a> RIETIコラム 2020年7月10日掲載（Gee Hee Hongさん、齊藤有希子さんとの共著）  
 
-1. <a href="https://www.web-nippyo.jp/32897/" target="_blank">海外論文SURVEY テレワークは生産性を上げるのか？ランダム化比較試験による実証</a> 経済セミナー2023年10/11月号
-2. <a href="https://www.web-nippyo.jp/32030/" target="_blank">海外論文SURVEY 政治的なコネと経済成長</a> 経済セミナー2023年6/7月号
-3. <a href="https://www.web-nippyo.jp/29934/" target="_blank">海外論文SURVEY 「バナナ共和国」は本当に搾取的だったのか?</a> 経済セミナー2022年12月/2023年1月号
-4. <a href="https://www.web-nippyo.jp/28418/" target="_blank">〖座談会〗実際、学術論文にどう向き合っている？</a> 経済セミナー2022年8/9月号
-5. <a href="https://www.web-nippyo.jp/27700/" target="_blank">海外論文SURVEY 家計の消費バスケットにおける企業の異質性</a> 経済セミナー2022年8/9月号
-6. <a href="https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/076-077.pdf" target="_blank">論文Today 職場における学習効果を測る</a> 日本労働研究雑誌2022年4月号
-7. <a href="https://www.web-nippyo.jp/25367/" target="_blank">海外論文SURVEY Home-market effectの実証</a>　経済セミナー2021年12月/2022年1月号
-8. <a href="https://www.web-nippyo.jp/23540/" target="_blank">海外論文SURVEY 港湾都市に対する集中的なインフラ投資の帰結</a> 経済セミナー2021年6/7月号
-9. <a href="https://note.com/keisemi/n/n99c0b87f88f4" target="_blank">経済学Ph.D.留学アウトリーチ企画2020年冬 経済学Ph.D.について知ろう！</a> 経済セミナー2021年6/7月号
-10. <a href="https://www.web-nippyo.jp/20680/" target="_blank">〖巻頭インタビュー〗この人を訪ねて vol.22 新型コロナウイルスが労働者に与える影響とは</a> 経済セミナー2020年10/11月号
-11. <a href="https://www.rieti.go.jp/jp/columns/a01_0607.html" target="_blank">コロナ危機は、企業の退出にどのような影響を及ぼしたか？</a> RIETIコラム 2020年7月10日掲載（Gee Hee Hongさん、齊藤有希子さんとの共著）  
+### 論文のサーベイ
+1. <a href="https://www.web-nippyo.jp/32897/" target="_blank">テレワークは生産性を上げるのか？ランダム化比較試験による実証</a> 経済セミナー2023年10/11月号
+2. <a href="https://www.web-nippyo.jp/32030/" target="_blank">政治的なコネと経済成長</a> 経済セミナー2023年6/7月号
+3. <a href="https://www.web-nippyo.jp/29934/" target="_blank">「バナナ共和国」は本当に搾取的だったのか?</a> 経済セミナー2022年12月/2023年1月号
+4. <a href="https://www.web-nippyo.jp/27700/" target="_blank">家計の消費バスケットにおける企業の異質性</a> 経済セミナー2022年8/9月号
+5. <a href="https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/076-077.pdf" target="_blank">職場における学習効果を測る</a> 日本労働研究雑誌2022年4月号
+6. <a href="https://www.web-nippyo.jp/25367/" target="_blank">Home-market effectの実証</a>　経済セミナー2021年12月/2022年1月号
+7. <a href="https://www.web-nippyo.jp/23540/" target="_blank">港湾都市に対する集中的なインフラ投資の帰結</a> 経済セミナー2021年6/7月号
+
 
 
 ### メディア出演（のうちのいくつか）
