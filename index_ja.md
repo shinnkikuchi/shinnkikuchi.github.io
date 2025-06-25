@@ -6,7 +6,7 @@ permalink: /ja/
 
 <br>
 
-## 現在の研究関心
+## 研究・専門分野
 
 数理モデルとデータを用いて、以下のようなトピックを研究しています。
 
@@ -17,8 +17,6 @@ permalink: /ja/
 また、日本の労働市場に関しても複数の研究を行っています。
 
 <a href="https://scholar.google.com/citations?user=ERWAMasAAAAJ&hl=ja" target="_blank">Google Scholar</a>  
-
----
 
 ## 略歴
 - 2025年　マサチューセッツ工科大学（MIT） 経済学博士  
@@ -31,10 +29,6 @@ permalink: /ja/
 ## 主な研究内容
 
 1. もはや労働力は関係ないのか？21世紀の国際貿易における比較優位
-<details style="margin-bottom: 15px; margin-top: -15px">
-	<summary>概要</summary>
-	本稿は、高スキルの労働力に富む国々がもはやスキル集約的な産業において比較優位を持たなくなっていることを示す。かつてはこの実証的関係は強固であったが、1990年代に弱まり、2000年代には消失した。この衰退は、自動化の進んだ国および産業においてのみ確認され、オフショアリングによる有意な変化は見られない。自動化とオフショアリングの両方を組み込んだ定量的貿易モデルを用いて、観察される自動化の変化は比較優位の変化を説明できる一方で、観察されるオフショアリングの変化はそれを説明できないことを確認する。同じモデルの枠組みにより、テクノロジーと不平等の関係についての含意を導く。すなわち、自動化は自動化水準の高い先進国においてスキル・プレミアムを上昇させ、世界全体の厚生を高める一方、オフショアリングはより小さく平等な厚生向上をもたらす。
-</details>
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  
 
 
@@ -45,13 +39,13 @@ permalink: /ja/
 3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">[英語論文PDF]</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
    _Reject and Resubmit at Journal of Political Economy_  
-   2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月24日掲載  
+   2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
 4. 米国における中間層の消失：教育水準や世代における格差拡大の観点
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
-   2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月3日掲載
-   3. <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 週刊東洋経済Plus 2019年5月18日掲載  
+   2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
+   3. <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 週刊東洋経済Plus 2019年5月
 
 
 ## 日本の労働市場に関する研究・レポート
@@ -79,8 +73,8 @@ permalink: /ja/
 6. 新型コロナ（COVID-19）危機が引き起こす格差の拡大
    1. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
    2. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VoxEU Column</a> 2020年5月
-   3. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">CREPEコラム</a>  2020年5月掲載
-   4. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章に所収
+   3. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">CREPEコラム</a>  2020年5月
+   4. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章
 
 
 
@@ -90,11 +84,11 @@ permalink: /ja/
    YouTube ReHacQ 2024年8月  
 2. <a href="https://www.youtube.com/watch?v=ppKt84WAk_c" target="_blank">経済学者ってなあに？ with 菊池信之介</a>  
    Spotify for Podcasters ハヤカワ五味の「なに考えてるの〜？」2024年3月  
-3. <a href="https://www.youtube.com/watch?v=ba6k4AiebJY" target="_blank">〖AIは日本で雇用を奪わない〗MIT研究者が鋭い分析 日本ではAIやロボットが雇用を奪わない理由／1970年代から続く日本とロボットの親和性／AIと能力格差</a>  
+3. <a href="https://www.youtube.com/watch?v=ba6k4AiebJY" target="_blank">【AIは日本で雇用を奪わない】MIT研究者が鋭い分析 日本ではAIやロボットが雇用を奪わない理由／1970年代から続く日本とロボットの親和性／AIと能力格差</a>  
    YouTube PIVOT 2024年1月  
-4. <a href="https://www.youtube.com/watch?v=JnN3G-vpxeQ" target="_blank">〖ノーベル賞受賞者を多数輩出の謎〗マサチューセッツ工科大学経済学部を徹底解剖／まるで映画の世界？現役MIT生が語る学校生活／「ビッグモーター事件」にもつながる研究</a>  
+4. <a href="https://www.youtube.com/watch?v=JnN3G-vpxeQ" target="_blank">【ノーベル賞受賞者を多数輩出の謎】マサチューセッツ工科大学経済学部を徹底解剖／まるで映画の世界？現役MIT生が語る学校生活／「ビッグモーター事件」にもつながる研究</a>  
    YouTube PIVOT 2023年12月  
-5. <a href="https://www.youtube.com/watch?v=_O2hWCPX-mk" target="_blank">〖ビジネスパーソンの知を鍛える〗マッキンゼー→MIT学生が語る経済学を学ぶべき理由／元コンサルが経済学で解き明かしたいこと／オートメーションは人の仕事を奪うのか？</a>  
+5. <a href="https://www.youtube.com/watch?v=_O2hWCPX-mk" target="_blank">【ビジネスパーソンの知を鍛える】マッキンゼー→MIT学生が語る経済学を学ぶべき理由／元コンサルが経済学で解き明かしたいこと／オートメーションは人の仕事を奪うのか？</a>  
    YouTube PIVOT 2023年12月  
 6. アベマプライム：2023/10/27, 2023/11/7  
 
