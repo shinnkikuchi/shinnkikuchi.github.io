@@ -30,45 +30,75 @@ permalink: /ja/
 
 ## 主な研究内容
 
-1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century</a> Job Market Paper  
+1. もはや労働力は関係ないのか？21世紀の国際貿易における比較優位
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary>概要</summary>
+	本稿は、高スキルの労働力に富む国々がもはやスキル集約的な産業において比較優位を持たなくなっていることを示す。かつてはこの実証的関係は強固であったが、1990年代に弱まり、2000年代には消失した。この衰退は、自動化の進んだ国および産業においてのみ確認され、オフショアリングによる有意な変化は見られない。自動化とオフショアリングの両方を組み込んだ定量的貿易モデルを用いて、観察される自動化の変化は比較優位の変化を説明できる一方で、観察されるオフショアリングの変化はそれを説明できないことを確認する。同じモデルの枠組みにより、テクノロジーと不平等の関係についての含意を導く。すなわち、自動化は自動化水準の高い先進国においてスキル・プレミアムを上昇させ、世界全体の厚生を高める一方、オフショアリングはより小さく平等な厚生向上をもたらす。
+</details>
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  
 
 
-2. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">The Granular Origins of Agglomeration</a> (joint with Daniel G O'Connor)  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">企業数の有限性に起因する規模の経済と、経済集積への帰結</a> RIETI ノンテクニカル・サマリー 2024年1月  
+2. 企業数の有限性に起因する規模の経済と、経済集積への帰結
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  
+   2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年1月  
 
-3. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">Decomposing the Rise of the Populist Radical Right</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
+3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">[英語論文PDF]</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
    _Reject and Resubmit at Journal of Political Economy_  
-   1. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析</a> 週刊東洋経済Plus 2024年1月24日掲載  
-   2. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">Decomposing the rise of the populist radical right: How changes in priorities explain the electoral politics of our time</a> VoxEU Column 2023年4月  
+   2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月24日掲載  
+   3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
-4. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">Welfare Effects of Polarization: Occupational Mobility over the Life-cycle</a> (joint with Sagiri Kitao)  
-   1. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">米国における中間層の消失：教育水準や世代における格差拡大の観点</a> RIETIコラム 2020年7月3日掲載
-   2. <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 週刊東洋経済Plus 2019年5月18日掲載  
+4. 米国における中間層の消失：教育水準や世代における格差拡大の観点
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
+   2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月3日掲載
+   3. <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 週刊東洋経済Plus 2019年5月18日掲載  
 
 
 ## 日本の労働市場に関する研究・レポート
 
-1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">Trends in National and Local Market Concentration in Japan: 1980–2020</a> RIETI Discussion Paper 24-E-049, April 2024  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">日本の製品市場ならびに労働市場における集中度のトレンド：1980–2020</a> RIETI ノンテクニカル・サマリー 2024年4月  
+1. 子の育児・親の介護が仕事へもたらす影響
+   1. [英語論文PDF]（校正中）
+   2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
-2. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">Automation and Offshoring on Wage Inequality in Japan</a> RIETI Discussion Paper 24-E-046, April 2024  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">自動化とオフショアリングによるタスクの代替が日本の賃金格差に与える影響</a> RIETI ノンテクニカル・サマリー 2024年4月  
+2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
+   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-049, April 2024  
+   2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
-3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">Automation and the Disappearance of Routine Work in Japan</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
-   1. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">自動化と、定型的作業を主とする職業の雇用シェア低下</a> RIETI ノンテクニカル・サマリー 2023年11月
+3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
+   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-046, April 2024  
+   2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
+
+4. 自動化と、定型的作業を主とする職業の雇用シェア低下
+   1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[英語論文リンク]</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
+   2. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">RIETI ノンテクニカル・サマリー </a> 2023年11月
    
-4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">Who suffers from the COVID-19 shocks? Labor market heterogeneity and welfare consequences in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
-   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">コロナ危機で最も影響を受けるのは誰なのか？　労働市場の異質性と厚生分析</a> RIETI ノンテクニカル・サマリー 2020年7月
+5. コロナ危機で最も影響を受けるのは誰なのか？労働市場の異質性と厚生分析
+   1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
+   2. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2020年7月
 
-5. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
-   1. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">Heterogeneous employment vulnerability and inequality in Japan</a> VoxEU Column 2020年5月
-   2. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">新型コロナ（COVID-19）危機が引き起こす格差の拡大</a> CREPEコラム 2020年5月掲載
-   3. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章に所収
+6. 新型コロナ（COVID-19）危機が引き起こす格差の拡大
+   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
+   2. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VoxEU Column</a> 2020年5月
+   3. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">CREPEコラム</a>  2020年5月掲載
+   4. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章に所収
 
 
 
 ## その他 
-### 紹介記事や書きもの
+### メディア出演（のうちのいくつか）
+1. <a href="https://www.youtube.com/watch?v=H5IVSMGIoyg" target="_blank">【ひろゆきvsMIT】どうする円安時代!?日本での働き方と幸せになるには【ボビーvs安野貴博】</a>  
+   YouTube ReHacQ 2024年8月  
+2. <a href="https://www.youtube.com/watch?v=ppKt84WAk_c" target="_blank">経済学者ってなあに？ with 菊池信之介</a>  
+   Spotify for Podcasters ハヤカワ五味の「なに考えてるの〜？」2024年3月  
+3. <a href="https://www.youtube.com/watch?v=ba6k4AiebJY" target="_blank">〖AIは日本で雇用を奪わない〗MIT研究者が鋭い分析 日本ではAIやロボットが雇用を奪わない理由／1970年代から続く日本とロボットの親和性／AIと能力格差</a>  
+   YouTube PIVOT 2024年1月  
+4. <a href="https://www.youtube.com/watch?v=JnN3G-vpxeQ" target="_blank">〖ノーベル賞受賞者を多数輩出の謎〗マサチューセッツ工科大学経済学部を徹底解剖／まるで映画の世界？現役MIT生が語る学校生活／「ビッグモーター事件」にもつながる研究</a>  
+   YouTube PIVOT 2023年12月  
+5. <a href="https://www.youtube.com/watch?v=_O2hWCPX-mk" target="_blank">〖ビジネスパーソンの知を鍛える〗マッキンゼー→MIT学生が語る経済学を学ぶべき理由／元コンサルが経済学で解き明かしたいこと／オートメーションは人の仕事を奪うのか？</a>  
+   YouTube PIVOT 2023年12月  
+6. アベマプライム：2023/10/27, 2023/11/7  
+
+### 紹介記事など
 1. <a href="https://www.web-nippyo.jp/28418/" target="_blank">〖座談会〗実際、学術論文にどう向き合っている？</a> 経済セミナー2022年8/9月号
 2. <a href="https://note.com/keisemi/n/n99c0b87f88f4" target="_blank">経済学Ph.D.留学アウトリーチ企画2020年冬 経済学Ph.D.について知ろう！</a> 経済セミナー2021年6/7月号
 3. <a href="https://www.web-nippyo.jp/20680/" target="_blank">〖巻頭インタビュー〗この人を訪ねて vol.22 新型コロナウイルスが労働者に与える影響とは</a> 経済セミナー2020年10/11月号
@@ -82,20 +112,6 @@ permalink: /ja/
 5. <a href="https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/076-077.pdf" target="_blank">職場における学習効果を測る</a> 日本労働研究雑誌2022年4月号
 6. <a href="https://www.web-nippyo.jp/25367/" target="_blank">Home-market effectの実証</a>　経済セミナー2021年12月/2022年1月号
 7. <a href="https://www.web-nippyo.jp/23540/" target="_blank">港湾都市に対する集中的なインフラ投資の帰結</a> 経済セミナー2021年6/7月号
-
-
-
-### メディア出演（のうちのいくつか）
-
-1. <a href="https://www.youtube.com/watch?v=ppKt84WAk_c" target="_blank">経済学者ってなあに？ with 菊池信之介</a>  
-   Spotify for Podcasters ハヤカワ五味の「なに考えてるの〜？」2024年3月  
-2. <a href="https://www.youtube.com/watch?v=ba6k4AiebJY" target="_blank">〖AIは日本で雇用を奪わない〗MIT研究者が鋭い分析 日本ではAIやロボットが雇用を奪わない理由／1970年代から続く日本とロボットの親和性／AIと能力格差</a>  
-   YouTube PIVOT 2024年1月  
-3. <a href="https://www.youtube.com/watch?v=JnN3G-vpxeQ" target="_blank">〖ノーベル賞受賞者を多数輩出の謎〗マサチューセッツ工科大学経済学部を徹底解剖／まるで映画の世界？現役MIT生が語る学校生活／「ビッグモーター事件」にもつながる研究</a>  
-   YouTube PIVOT 2023年12月  
-4. <a href="https://www.youtube.com/watch?v=_O2hWCPX-mk" target="_blank">〖ビジネスパーソンの知を鍛える〗マッキンゼー→MIT学生が語る経済学を学ぶべき理由／元コンサルが経済学で解き明かしたいこと／オートメーションは人の仕事を奪うのか？</a>  
-   YouTube PIVOT 2023年12月  
-5. アベマプライム：2023/10/27, 2023/11/7  
 
 
 ### 経済学PhDについてのアウトリーチ活動
