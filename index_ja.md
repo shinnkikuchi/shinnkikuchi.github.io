@@ -79,6 +79,9 @@ permalink: /ja/
 
 
 ## その他 
+### 書き物
+1. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
+
 ### メディア出演（のうちのいくつか）
 1. <a href="https://www.youtube.com/watch?v=H5IVSMGIoyg" target="_blank">【ひろゆきvsMIT】どうする円安時代!?日本での働き方と幸せになるには【ボビーvs安野貴博】</a>  
    YouTube ReHacQ 2024年8月  
