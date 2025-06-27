@@ -45,7 +45,6 @@ permalink: /ja/
 4. 米国における中間層の消失：教育水準や世代における格差拡大の観点
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
    2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
-   3. <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 週刊東洋経済Plus 2019年5月
 
 
 ## 日本の労働市場に関する研究・レポート
@@ -81,6 +80,7 @@ permalink: /ja/
 ## その他 
 ### 書き物
 1. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
+2.  <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 東洋経済 2019年5月
 
 ### メディア出演（のうちのいくつか）
 1. <a href="https://www.youtube.com/watch?v=H5IVSMGIoyg" target="_blank">【ひろゆきvsMIT】どうする円安時代!?日本での働き方と幸せになるには【ボビーvs安野貴博】</a>  
@@ -109,8 +109,3 @@ permalink: /ja/
 5. <a href="https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/076-077.pdf" target="_blank">職場における学習効果を測る</a> 日本労働研究雑誌2022年4月号
 6. <a href="https://www.web-nippyo.jp/25367/" target="_blank">Home-market effectの実証</a>　経済セミナー2021年12月/2022年1月号
 7. <a href="https://www.web-nippyo.jp/23540/" target="_blank">港湾都市に対する集中的なインフラ投資の帰結</a> 経済セミナー2021年6/7月号
-
-
-### 経済学PhDについてのアウトリーチ活動
-
-<a href="https://sites.google.com/view/shinnosukekikuchi/PhD-outreach-page" target="_blank">PhDアウトリーチのページ</a>をご覧ください。
