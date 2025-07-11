@@ -50,7 +50,7 @@ permalink: /ja/
 ## 日本の労働市場に関する研究・レポート
 
 1. 子の育児・親の介護が仕事へもたらす影響
-   1. [英語論文PDF]（校正中）
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a>
    2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
 2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
