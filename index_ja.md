@@ -50,15 +50,15 @@ permalink: /ja/
 ## 日本の労働市場に関する研究・レポート
 
 1. 子の育児・親の介護が仕事へもたらす影響
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a>
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a> 2025年7月
    2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
 2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
-   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-049, April 2024  
+   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-049, 2024年4月
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
 3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
-   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-046, April 2024  
+   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-046, 2024年4月
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
 4. 自動化と、定型的作業を主とする職業の雇用シェア低下
@@ -70,7 +70,7 @@ permalink: /ja/
    2. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2020年7月
 
 6. 新型コロナ（COVID-19）危機が引き起こす格差の拡大
-   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, April 2020  
+   1. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, 2020年4月 
    2. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VoxEU Column</a> 2020年5月
    3. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">CREPEコラム</a>  2020年5月
    4. 新型コロナ危機による労働市場への影響と格差の拡大 <a href="https://bookplus.nikkei.com/atcl/catalog/2020/9784532358617/" target="_blank">「コロナ危機の経済学：提言と分析」</a> 日経BP、2020年7月 第15章
