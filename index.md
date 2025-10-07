@@ -36,11 +36,13 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
 	Support for populist radical right parties in Europe has dramatically increased in recent years. We decompose the rise of these parties from 2005 to 2020 into four components: shifts in party positions, changes in voter attributes (opinions and demographics), changes in voter priorities, and a residual. We merge two wide datasets on party positions and voter attributes and estimate voter priorities using a probabilistic voting model. We find that shifts in party positions and changes in voter attributes do not play a major role in the recent success of populist radical right parties. Instead, the primary driver behind their electoral success lies in voters’ changing priorities. Particularly, voters are less likely to decide which party to support based on parties’ economic positions. Rather, voters—mainly older, non-unionized, low-educated men—increasingly prioritize nativist cultural positions. This allows populist radical right parties to tap into a preexisting reservoir of culturally conservative voters. Using the same datasets, we provide a set of reduced-form evidence supporting our results. First, while parties’ positions have changed, these changes are not consistent with the main supply-side hypothesis for populist support. Second, on aggregate, voters have not adopted populist right-wing opinions. Third, voters are more likely to self-identify ideologically based on their cultural rather than their economic opinions.
 </details>
 
-**"Decomposing Long-run Real Exchange Rate"** Draft Available Very Soon! <br>
+**"Decomposing Long-run Real Exchange Rate"** <br>
 with  <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> <br>
+*Draft Available Very Soon!* <br>
 
-**"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** Draft Available Very Soon! <br>
+**"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** <br>
 with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a> <br>
+*Draft Available Very Soon!* <br>
 
 
 **"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a> <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a><br>
