@@ -23,10 +23,6 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
  <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VOXEU</a><br>
 *Reject and Resubmit at Journal of Political Economy* <br>
 
-**"Decomposing Long-run Dynamics of Real Exchange Rate"** <br>
-with  <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> <br>
-*Draft Available Very Soon!* <br>
-
 **"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** <br>
 with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a> <br>
 *Draft Available Very Soon!* <br>
