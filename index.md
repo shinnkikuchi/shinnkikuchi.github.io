@@ -31,6 +31,12 @@ with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href
 **"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a> <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
 
+**"Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"** <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a><br>
+
+**"Trends in National and Local Market Concentration in Japan: 1980-2020"** <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a><br>
+
+**"Automation and Offshoring on Wage Inequality in Japan"** <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a><br>
+
 ## Publications 
 
 **"Automation and the Disappearance of Routine Work in Japan"**
