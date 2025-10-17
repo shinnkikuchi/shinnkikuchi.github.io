@@ -11,9 +11,11 @@ title: Home
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> <br>
  [Paper PDF]</a><br>
+ Draft Updated: May 2025<br>
 
 **"Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a><a href="/files/research/KIKUCHI-OCONNOR-granular-spatial-OnlineApp.pdf" target="_blank"> [Online Appendix PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
+New Draft Available Very Soon!<br>
 
 **"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-DGKL-Populism.pdf" target="_blank">[Slide PDF]</a><br>
@@ -23,13 +25,14 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
  <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VOXEU</a><br>
 *Reject and Resubmit at Journal of Political Economy* <br>
 
-**"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** <br>
+**"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a> <br>
-*Draft Available Very Soon!* <br>
+Draft Updated: Oct. 2025 <br>
 
 
 **"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a> <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
+Draft Updated: July 2020<br>
 
 ## Empirical Papers on Japanese Labor Market
 
