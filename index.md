@@ -49,7 +49,7 @@ Journal of the Japanese and International Economies, Volume 74, December 2024 <b
 
 
 **"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
- <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a><br>
+ <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a><br>
 Journal of the Japanese and International Economies, Volume 59, March 2021 <br>
