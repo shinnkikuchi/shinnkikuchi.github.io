@@ -42,7 +42,10 @@ permalink: /ja/
    2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
-4. 米国における中間層の消失：教育水準や世代における格差拡大の観点
+4. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
+   1. <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  
+
+5. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
    2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
 
