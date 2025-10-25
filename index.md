@@ -15,7 +15,7 @@ title: Home
 
 **"Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a><a href="/files/research/KIKUCHI-OCONNOR-granular-spatial-OnlineApp.pdf" target="_blank"> [Online Appendix PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
-Draft Updated: Oct. 2025<br>
+Submitted; Draft Updated: Oct. 2025<br>
 
 **"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-DGKL-Populism.pdf" target="_blank">[Slide PDF]</a><br>
