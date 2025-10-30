@@ -43,11 +43,13 @@ Draft Updated: Oct. 2025 <br>
 ## Papers on Japanese Labor Market
 
 **"Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"** <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a><br>
-Submitted; Draft Updated: Oct. 2025<br>
+Submitted; Draft Updated: Sep. 2025<br>
 
 **"Trends in National and Local Market Concentration in Japan: 1980-2020"** <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a><br>
+Draft Updated: May 2025<br>
 
 **"Automation and Offshoring on Wage Inequality in Japan"** <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a><br>
+Draft Updated: May 2025<br>
 
 **"Automation and the Disappearance of Routine Work in Japan"**
 <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a><br>
