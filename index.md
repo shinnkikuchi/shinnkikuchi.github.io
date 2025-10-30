@@ -7,7 +7,7 @@ title: Home
 ---
 <br>
 
-## Working Papers
+## Working Papers (Trade/Macro)
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> <br>
  [Paper PDF]</a><br>
@@ -16,6 +16,16 @@ title: Home
 **"Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a><a href="/files/research/KIKUCHI-OCONNOR-granular-spatial-OnlineApp.pdf" target="_blank"> [Online Appendix PDF]</a><br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 Submitted; Draft Updated: Oct. 2025<br>
+
+**"Balassa-Samuelson in the Long-Run"** <br>
+with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> <br>
+Draft Available Very Soon!<br>
+
+**"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a> <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a><br>
+with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
+Draft Updated: July 2020<br>
+
+## Working Papers (Political Economy)
 
 **"Decomposing the Rise of the Populist Radical Right"** <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-DGKL-Populism.pdf" target="_blank">[Slide PDF]</a><br>
@@ -30,15 +40,7 @@ with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href
 <a href="https://www.socialscienceregistry.org/trials/16557" target="_blank">AEA RCT Registry</a><br>
 Draft Updated: Oct. 2025 <br>
 
-**"Balassa-Samuelson in the Long-Run"** <br>
-with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> <br>
-Draft Available Very Soon!<br>
-
-**"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a> <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a><br>
-with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
-Draft Updated: July 2020<br>
-
-## Empirical Papers on Japanese Labor Market
+## Papers on Japanese Labor Market
 
 **"Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"** <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a><br>
 
