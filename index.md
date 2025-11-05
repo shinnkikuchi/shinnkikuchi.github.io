@@ -17,10 +17,6 @@ title: Home
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a><br>
 Submitted; Draft Updated: Oct. 2025<br>
 
-**"Balassa-Samuelson in the Long-Run"** <br>
-with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> <br>
-Draft Available Very Soon!<br>
-
 **"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"** <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a> <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a><br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a><br>
 Draft Updated: July 2020<br>
