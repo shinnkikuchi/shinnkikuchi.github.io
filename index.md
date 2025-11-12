@@ -7,6 +7,13 @@ title: Home
 ---
 <br>
 
+## Upcoming Talks
+
+- UTokyo (Macro) – Dec 2025
+- UC Riverside  (Macro/International) – Jan 2025
+- Columbia (Japan Economic Seminar) – Feb 2025
+- Chicago (Trade/Spatial) – May 2025
+
 ## Working Papers (Trade/Macro)
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> <br>
