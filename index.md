@@ -9,6 +9,7 @@ title: Home
 
 ## Upcoming Talks
 
+- UCSD (Political Economy) – Nov 2025
 - UTokyo (Macro) – Dec 2025
 - UC Riverside  (Macro/International) – Jan 2025
 - Columbia (Japan Economic Seminar) – Feb 2025
