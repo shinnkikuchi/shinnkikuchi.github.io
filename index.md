@@ -9,11 +9,12 @@ title: Home
 
 ## Upcoming Talks
 
-- UCSD (Political Economy) – Nov 2025
-- UTokyo (Macro) – Dec 2025
-- UC Riverside  (Macro/International) – Jan 2025
-- Columbia (Japan Economic Seminar) – Feb 2025
-- Chicago (Trade/Spatial) – May 2025
+- UC San Diego (Political Economy) – Nov 18, 2025
+- SEA Annual Meeting, Tampa – Nov 22-24, 2025
+- UTokyo (Macro) – Dec 25, 2025
+- UC Riverside  (Macro/International) – Jan 30, 2025
+- Columbia (Japan Economic Seminar) – Feb 20, 2025
+- Chicago (Trade/Spatial) – May 15, 2025
 
 ## Working Papers (Trade/Macro)
 
