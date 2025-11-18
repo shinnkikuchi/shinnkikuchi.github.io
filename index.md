@@ -58,12 +58,11 @@ Reject and Resubmit at Journal of Political Economy
 <br>
 <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-fakenews.pdf" target="_blank">[Slide PDF]</a>
+<a href="https://www.socialscienceregistry.org/trials/16557" target="_blank">[AEA RCT Registry]</a>
 <br>
 with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, 
 <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>
-<br>
-<a href="https://www.socialscienceregistry.org/trials/16557" target="_blank">AEA RCT Registry</a>
 <br>
 Draft Updated: Nov. 2025
 <br>
