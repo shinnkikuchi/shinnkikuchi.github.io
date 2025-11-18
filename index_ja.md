@@ -16,8 +16,6 @@ permalink: /ja/
 
 また、日本の労働市場に関しても複数の研究を行っています。
 
-<a href="https://scholar.google.com/citations?user=ERWAMasAAAAJ&hl=ja" target="_blank">Google Scholar</a>  
-
 ## 略歴
 - 2025年　マサチューセッツ工科大学（MIT） 経済学博士  
 - 2019年　東京大学大学院経済学研究科修士課程 修了  
