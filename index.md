@@ -7,7 +7,7 @@ title: Home
 ---
 <br>
 
-## Working Papers (Trade/Macro)
+## Working Papers (Trade / Macro-Labor)
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"> <br>
  [Paper PDF]</a><br>
