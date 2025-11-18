@@ -29,7 +29,7 @@ with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>
 <a href="https://noamgidron.com/" target="_blank">Noam Gidron</a>, 
 and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
  <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VOXEU</a><br>
-*Reject and Resubmit at Journal of Political Economy* <br>
+Reject and Resubmit at Journal of Political Economy <br>
 
 **"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a> <br>
