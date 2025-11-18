@@ -9,8 +9,10 @@ title: Home
 
 ## Working Papers (Trade / Macro-Labor)
 
-**"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank"><a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a> <br>
- [Paper PDF]</a><br>
+**"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
+<a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a>
+<br>
  Draft Updated: May 2025<br>
 
 **"Granular Origins of Agglomeration"**<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a><a href="/files/research/KIKUCHI-OCONNOR-granular-spatial-OnlineApp.pdf" target="_blank"> [Online Appendix PDF]</a><a href="/files/research/slide-KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[Slide PDF]</a><br>
