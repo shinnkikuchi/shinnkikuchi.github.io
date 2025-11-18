@@ -34,7 +34,7 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a><br>
 **"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"** <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[Paper PDF]</a><br>
 with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a> <br>
 <a href="https://www.socialscienceregistry.org/trials/16557" target="_blank">AEA RCT Registry</a><br>
-Draft Updated: Oct. 2025 <br>
+Draft Updated: Nov. 2025 <br>
 
 ## Papers on Japanese Labor Market
 
