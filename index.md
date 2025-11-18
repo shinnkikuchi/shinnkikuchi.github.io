@@ -51,7 +51,7 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 <br>
  <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VOXEU</a>
  <br>
-Reject and Resubmit at Journal of Political Economy
+Reject and Resubmit at Journal of Political Economy; Draft Updated: Feb. 2024
 <br>
 
 **"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"**
