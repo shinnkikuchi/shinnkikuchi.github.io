@@ -7,7 +7,7 @@ title: Home
 ---
 <br>
 
-## Working Papers (Trade / Macro-Labor)
+## Trade / Macro-Labor
 
 **"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
 <br>
@@ -38,7 +38,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 Draft Updated: July 2020
 <br>
 
-## Working Papers (Political Economy)
+## Political Economy
 
 **"Decomposing the Rise of the Populist Radical Right"**
 <br>
@@ -67,7 +67,7 @@ with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>,
 Draft Updated: Nov. 2025
 <br>
 
-## Papers on Japanese Labor Market
+## Japanese Labor Market
 
 **"Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
 <br>
