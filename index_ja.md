@@ -79,10 +79,11 @@ permalink: /ja/
 
 
 ## その他 
-### 書き物
-1. <a href="https://www.nikkei.com/article/DGKKZO90353140Q5A730C2KE8000/" target="_blank">人手不足と経済成長(下)　自動化こそ日本の勝ち筋</a> 日本経済新聞経済教室 2025年7月 <a href="/files/memo/reference_nikkei_20250731_v202507310600.pdf" target="_blank">関連リンク集</a> 
-2. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
-3.  <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 東洋経済 2019年5月
+### 新聞・雑誌記事
+1. <a href="https://www.yomiuri.co.jp/local/kyushu/news/20251107-OYS1T50028/3/" target="_blank"> 無人のバスやショベルカー、人手不足の切り札は…「自動化こそ日本の勝ち筋」九州はセンサー・半導体の拠点 </a> 読売新聞 2025年11月
+2. <a href="https://www.nikkei.com/article/DGKKZO90353140Q5A730C2KE8000/" target="_blank">人手不足と経済成長(下)　自動化こそ日本の勝ち筋</a> 日本経済新聞経済教室 2025年7月 <a href="/files/memo/reference_nikkei_20250731_v202507310600.pdf" target="_blank">関連リンク集</a> 
+3. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
+4.  <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 東洋経済 2019年5月
 
 ### メディア出演（のうちのいくつか）
 1. <a href="https://www.youtube.com/watch?v=H5IVSMGIoyg" target="_blank">【ひろゆきvsMIT】どうする円安時代!?日本での働き方と幸せになるには【ボビーvs安野貴博】</a>  
@@ -97,13 +98,13 @@ permalink: /ja/
    YouTube PIVOT 2023年12月  
 6. アベマプライム：2023/10/27, 2023/11/7  
 
-### 紹介記事など
+### その他記事など
 1. <a href="https://www.web-nippyo.jp/28418/" target="_blank">〖座談会〗実際、学術論文にどう向き合っている？</a> 経済セミナー2022年8/9月号
 2. <a href="https://note.com/keisemi/n/n99c0b87f88f4" target="_blank">経済学Ph.D.留学アウトリーチ企画2020年冬 経済学Ph.D.について知ろう！</a> 経済セミナー2021年6/7月号
 3. <a href="https://www.web-nippyo.jp/20680/" target="_blank">〖巻頭インタビュー〗この人を訪ねて vol.22 新型コロナウイルスが労働者に与える影響とは</a> 経済セミナー2020年10/11月号
 4. <a href="https://www.rieti.go.jp/jp/columns/a01_0607.html" target="_blank">コロナ危機は、企業の退出にどのような影響を及ぼしたか？</a> RIETIコラム 2020年7月10日掲載（Gee Hee Hongさん、齊藤有希子さんとの共著）  
 
-### 論文のサーベイ
+### 他著者論文のサーベイ
 1. <a href="https://www.web-nippyo.jp/32897/" target="_blank">テレワークは生産性を上げるのか？ランダム化比較試験による実証</a> 経済セミナー2023年10/11月号
 2. <a href="https://www.web-nippyo.jp/32030/" target="_blank">政治的なコネと経済成長</a> 経済セミナー2023年6/7月号
 3. <a href="https://www.web-nippyo.jp/29934/" target="_blank">「バナナ共和国」は本当に搾取的だったのか?</a> 経済セミナー2022年12月/2023年1月号
