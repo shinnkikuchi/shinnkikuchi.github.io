@@ -80,7 +80,7 @@ permalink: /ja/
 
 ## その他 
 ### 新聞・雑誌記事
-1. <a href="https://www.yomiuri.co.jp/local/kyushu/news/20251107-OYS1T50028/3/" target="_blank"> 無人のバスやショベルカー、人手不足の切り札は…「自動化こそ日本の勝ち筋」九州はセンサー・半導体の拠点 </a> 読売新聞 2025年11月
+1. <a href="https://www.yomiuri.co.jp/local/kyushu/news/20251107-OYS1T50028/3/" target="_blank"> 「自動化こそ日本の勝ち筋」九州はセンサー・半導体の拠点 </a> 読売新聞 2025年11月
 2. <a href="https://www.nikkei.com/article/DGKKZO90353140Q5A730C2KE8000/" target="_blank">人手不足と経済成長(下)　自動化こそ日本の勝ち筋</a> 日本経済新聞経済教室 2025年7月 <a href="/files/memo/reference_nikkei_20250731_v202507310600.pdf" target="_blank">関連リンク集</a> 
 3. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
 4.  <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 東洋経済 2019年5月
