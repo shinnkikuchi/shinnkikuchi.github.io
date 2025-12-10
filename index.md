@@ -47,6 +47,11 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 Draft Updated: July 2020
 <br>
 
+**"Balassa–Samuelson in the Long Run: Empirical Success, Quantitative Limits"**
+<br>
+Draft available very soon: Dec 2025
+<br>
+
 ## Political Economy
 
 **"Decomposing the Rise of the Populist Radical Right"**
