@@ -9,7 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- Bank of Japan – Dec 11th, 2025
 - UTokyo (Macro) – Dec 25th, 2025
 - JSQPS (Political Economy) – Jan 6th, 7th, 2026
 - UC Riverside  (Macro/International) – Jan 30th, 2026
@@ -86,7 +85,7 @@ Draft Updated: Nov. 2025
 <br>
 <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
 <br>
-Submitted; Draft Updated: Sep. 2025
+Revise and Resubmit at Journal of the Japanese and International Economies; Draft Updated: Sep. 2025
 <br>
 
 **"Trends in National and Local Market Concentration in Japan: 1980-2020"**
