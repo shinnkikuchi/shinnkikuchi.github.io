@@ -13,6 +13,7 @@ title: Home
 - JSQPS (Political Economy) – Jan 6th, 7th, 2026
 - UC Riverside  (Macro/International) – Jan 30th, 2026
 - Columbia (Japan Economic Seminar) – Feb 20th, 2026
+- Hitotsubashi (Trade/Spatial) - March 19th, 2026
 - Chicago (Trade/Spatial) – May 15th, 2026
 
 ## Trade / Macro-Labor
