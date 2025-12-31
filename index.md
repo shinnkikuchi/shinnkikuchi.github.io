@@ -9,7 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- UTokyo (Macro) – Dec 2025
 - JSQPS (Political Economy) – Jan 2026
 - UC Riverside  (Macro/International) – Jan 2026
 - Columbia (Japan Economic Seminar) – Feb 2026
@@ -49,7 +48,7 @@ Draft Updated: July 2020
 
 **"Balassa–Samuelson in the Long Run: Empirical Success, Quantitative Limits"**
 <br>
-Draft available very soon: Dec 2025
+Draft available in Jan 2026
 <br>
 
 ## Political Economy
@@ -86,7 +85,7 @@ Draft Updated: Dec. 2025
 <br>
 <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
 <br>
-Revise and Resubmit at Journal of the Japanese and International Economies; Draft Updated: Sep. 2025
+Revise and Resubmit at Journal of the Japanese and International Economies; Draft Updated: Dec 2025
 <br>
 
 **"Trends in National and Local Market Concentration in Japan: 1980-2020"**
