@@ -21,10 +21,11 @@ title: Home
 <br>
 <a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a>
-<a href="{{ '/files/research/bib/KIKUCHI-skill-trade.bib' | relative_url }}"
-   onclick="return window.toggleBib(event,'bib-skill-trade');">[.bib]</a>
+<a href="/files/research/bib/KIKUCHI-skill-trade.bib"
+   onclick="return toggleBib(event,'bib-skill-trade');">[.bib file]</a>
 <div id="bib-skill-trade" class="bibbox" data-loaded="0"></div>
-Draft Updated: May 2025
+<br>
+ Draft Updated: May 2025
 <br>
 
 **"Granular Origins of Agglomeration"**

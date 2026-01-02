@@ -18,20 +18,11 @@
 
     if (box.dataset.loaded !== "1") {
       const resp = await fetch(url, { cache: "force-cache" });
-
-      if (!resp.ok) {
-        box.innerHTML = `<div class="bib-actions"><strong>Bib file not found:</strong> ${escapeHtml(url)} (HTTP ${resp.status})</div>`;
-        box.dataset.loaded = "1";
-        box.classList.add("open");
-        return false;
-      }
-
       const text = await resp.text();
 
       box.innerHTML = `
         <div class="bib-actions">
           <a href="#" onclick="return window.copyBib('${boxId}');">[Copy]</a>
-          <a href="#" onclick="return window.closeBib('${boxId}');">[Close]</a>
         </div>
         <pre><code>${escapeHtml(text)}</code></pre>
       `;
@@ -51,6 +42,7 @@
     try {
       await navigator.clipboard.writeText(text);
     } catch (err) {
+      // Fallback: select text for manual copy
       const range = document.createRange();
       range.selectNodeContents(code);
       const sel = window.getSelection();
@@ -60,13 +52,7 @@
     return false;
   }
 
-  function closeBib(boxId) {
-    const box = document.getElementById(boxId);
-    if (box) box.classList.remove("open");
-    return false;
-  }
-
+  // Expose for inline onclick handlers
   window.toggleBib = toggleBib;
   window.copyBib = copyBib;
-  window.closeBib = closeBib;
 })();

@@ -1,16 +1,6 @@
-.bibbox { 
-  display: none; 
-  margin: 0.25rem 0 0.25rem 0;   /* tighten vertical whitespace */
-}
-
-.bibbox.open { display: block; }
-
-.bib-actions { 
-  margin: 0.15rem 0 0.15rem 0;   /* tighter */
-}
-
-.bibbox pre { 
-  margin: 0;                    /* critical: remove default pre margin */
-  white-space: pre-wrap;
-  word-break: break-word;
-}
+<style>
+  .bibbox { display: none; margin-top: 0.4rem; }
+  .bibbox.open { display: block; }
+  .bibbox pre { white-space: pre-wrap; word-break: break-word; }
+  .bib-actions { margin: 0.25rem 0; }
+</style>
