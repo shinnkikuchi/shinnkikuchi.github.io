@@ -66,7 +66,7 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 Reject and Resubmit at Journal of Political Economy; Draft Updated: Feb. 2024
 <br>
 
-**"Partisan Disbelief in Polarized Societies: Evidence from South Korea and the US"**
+**"Distrusting the Out-Party: Partisan Disbelief and Biased Information Processing"**
 <br>
 <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-fakenews.pdf" target="_blank">[Slide PDF]</a>
