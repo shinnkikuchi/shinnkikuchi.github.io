@@ -103,9 +103,10 @@ Draft Updated: May 2025
 Draft Updated: May 2025
 <br>
 
-**"Automation and the Disappearance of Routine Work in Japan"**
+**"Automation and disappearing routine occupations in Japan"**
 <br>
 <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/FKS-robot-japan-JJIE.pdf" target="_blank">[Paper PDF, Published ver.]</a>
 <br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a>
  and <a href="https://researchmap.jp/81332791111?lang=en" target="_blank">Toyoichiro Shirota</a>
@@ -117,6 +118,7 @@ Journal of the Japanese and International Economies, Volume 74, December 2024
 **"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
 <br>
  <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a>
+ <a href="/files/research/KKM-COVID19-JJIE.pdf" target="_blank">[Paper PDF, Published ver.]</a>
  <br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
  <a href="https://sites.google.com/view/minamomikoshiba/home" target="_blank">Minamo Mikoshiba</a>
