@@ -21,6 +21,7 @@ title: Home
 <br>
 <a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a>
+<a href="/files/research/bib/KIKUCHI-skill-trade.html" target="_blank">[bib file]</a>
 <br>
  Draft Updated: May 2025
  <br>
