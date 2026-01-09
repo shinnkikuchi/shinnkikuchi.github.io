@@ -9,7 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- JSQPS (Political Economy) – Jan 2026
 - UC Riverside  (Macro/International) – Jan 2026
 - Columbia (Japan Economic Seminar) – Feb 2026
 - Hitotsubashi (Trade/Spatial) - March 2026
