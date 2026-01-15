@@ -48,7 +48,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 Draft Updated: July 2020
 <br>
 
-**"Balassa–Samuelson in the Long Run: Empirical Success, Quantitative Limits"**
+**"Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
 <br>
 Draft to be available in Jan 2026
 <br>
