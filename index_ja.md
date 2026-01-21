@@ -6,6 +6,14 @@ permalink: /ja/
 
 <br>
 
+## 直近の研究発表予定
+
+- UC Riverside (Macro/International) – Jan 2026
+- Columbia University (Japan Economic Seminar) – Feb 2026
+- Hitotsubashi University (Trade/Spatial) - March 2026
+- Federal Reserve Bank of San Francisco - April 2026
+- Chicago University (Trade/Spatial) – May 2026
+
 ## 研究・専門分野
 
 数理モデルとデータを用いて、以下のようなトピックを研究しています。
