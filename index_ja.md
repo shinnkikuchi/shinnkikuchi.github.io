@@ -26,7 +26,7 @@ permalink: /ja/
 
 ## 主な研究内容
 
-1. もはや労働力は関係ないのか？21世紀の国際貿易における比較優位
+1. もはや各国のスキル賦存は関係ないのか？21世紀の国際貿易における比較優位
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  
 
 
@@ -43,7 +43,10 @@ permalink: /ja/
 4. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
    1. <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  
 
-5. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
+5. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
+   1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a>
+
+6. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
    2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
 
@@ -51,7 +54,7 @@ permalink: /ja/
 ## 日本の労働市場に関する研究・レポート
 
 1. 育児・介護が仕事にもたらす影響
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a> 2025年7月
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a> 2025年7月  _Revise and Resubmit at Journal of Japanese and International Economies_  
    2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
 2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020

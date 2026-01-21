@@ -51,7 +51,7 @@ Draft Updated: July 2020
 
 **"Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
 <br>
-Draft to be available in Jan 2026
+<a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
 <br>
 
 ## Political Economy
