@@ -53,6 +53,8 @@ Draft Updated: July 2020
 <br>
 <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
 <br>
+Draft Updated: Jan 2026
+<br>
 
 ## Political Economy
 
