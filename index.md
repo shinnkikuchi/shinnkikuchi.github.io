@@ -52,6 +52,7 @@ Draft Updated: July 2020
 **"Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
 <br>
 <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
 <br>
 Draft Updated: Jan 2026
 <br>
