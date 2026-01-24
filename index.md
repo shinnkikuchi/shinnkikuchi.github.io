@@ -17,7 +17,7 @@ title: Home
 
 ## Trade / Macro-Labor
 
-**"Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
+**1. "Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
 <br>
 <a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a>
@@ -26,7 +26,7 @@ title: Home
 Draft Updated: May 2025
 <br>
 
-**"Granular Origins of Agglomeration"**
+**2. "Granular Origins of Agglomeration"**
 <br>
 <a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a>
 <a href="/files/research/KIKUCHI-OCONNOR-granular-spatial-OnlineApp.pdf" target="_blank"> [Online Appendix PDF]</a>
@@ -38,7 +38,7 @@ with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor
 Submitted; Draft Updated: Oct. 2025
 <br>
 
-**"Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
+**3. "Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
 <br>
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a>
@@ -49,7 +49,7 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 Draft Updated: July 2020
 <br>
 
-**"Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
+**4. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
 <br>
 <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
@@ -59,7 +59,7 @@ Draft Updated: Jan 2026
 
 ## Political Economy
 
-**"Decomposing the Rise of the Populist Radical Right"**
+**5. "Decomposing the Rise of the Populist Radical Right"**
 <br>
 <a href="/files/research/DGKL-Populism.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-DGKL-Populism.pdf" target="_blank">[Slide PDF]</a>
@@ -73,7 +73,7 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 Reject and Resubmit at Journal of Political Economy; Draft Updated: Feb. 2024
 <br>
 
-**"Distrusting the Out-Party: Partisan Disbelief and Biased Information Processing"**
+**6. "Distrusting the Out-Party: Partisan Disbelief and Biased Information Processing"**
 <br>
 <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-fakenews.pdf" target="_blank">[Slide PDF]</a>
@@ -89,7 +89,7 @@ Draft Updated: Dec. 2025
 
 ## Japanese Labor Market
 
-**"Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
+**7. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
 <br>
 <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_LTC_Penalty.html" target="_blank">[Bib]</a>
@@ -97,7 +97,7 @@ Draft Updated: Dec. 2025
 Revise and Resubmit at Journal of the Japanese and International Economies; Draft Updated: Dec 2025
 <br>
 
-**"Trends in National and Local Market Concentration in Japan: 1980-2020"**
+**8. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
@@ -105,7 +105,7 @@ Revise and Resubmit at Journal of the Japanese and International Economies; Draf
 Draft Updated: May 2025
 <br>
 
-**"Automation and Offshoring on Wage Inequality in Japan"**
+**9. "Automation and Offshoring on Wage Inequality in Japan"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
@@ -113,7 +113,7 @@ Draft Updated: May 2025
 Draft Updated: May 2025
 <br>
 
-**"Automation and disappearing routine occupations in Japan"**
+**10. "Automation and disappearing routine occupations in Japan"**
 <br>
 <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/FKS-robot-japan-JJIE.pdf" target="_blank">[Published ver.]</a>
@@ -125,7 +125,7 @@ with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippe
 Journal of the Japanese and International Economies, Volume 74, December 2024
 <br>
 
-**"Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
+**11. "Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
 <br>
 <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/KKM-COVID19-JJIE.pdf" target="_blank">[Published ver.]</a>
