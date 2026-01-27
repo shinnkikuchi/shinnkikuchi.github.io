@@ -12,6 +12,7 @@ title: Home
 - UC Riverside  (Macro/International) – Jan 2026
 - Columbia University (Japan Economic Seminar) – Feb 2026
 - Hitotsubashi University (Trade/Spatial) - March 2026
+- University of Pittsburgh (Macro) - March 2025
 - Federal Reserve Bank of San Francisco - April 2026
 - Chicago University (Trade/Spatial) – May 2026
 
