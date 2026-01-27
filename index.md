@@ -38,7 +38,15 @@ with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor
 Submitted; Draft Updated: Oct. 2025
 <br>
 
-**3. "Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
+**3. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
+<br>
+<a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
+<br>
+Draft Updated: Jan 2026
+<br>
+
+**4. "Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
 <br>
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a>
@@ -49,13 +57,6 @@ with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sa
 Draft Updated: July 2020
 <br>
 
-**4. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
-<br>
-<a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
-<br>
-Draft Updated: Jan 2026
-<br>
 
 ## Political Economy
 
