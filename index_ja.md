@@ -53,6 +53,7 @@ permalink: /ja/
 
 5. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
    1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a>
+   2. <a href="https://www.rieti.go.jp/jp/publications/nts/26e012.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2026年2月
 
 6. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
