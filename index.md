@@ -85,7 +85,7 @@ with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>,
 <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>
 <br>
-Draft Updated: Feb. 2026
+Submitted: Feb. 2026
 <br>
 
 ## Japanese Labor Market
