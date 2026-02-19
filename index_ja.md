@@ -8,11 +8,12 @@ permalink: /ja/
 
 ## 直近の研究発表予定
 
-- Columbia University (Japan Economic Seminar) – Feb 2026
+- Columbia University (Japan Economic Seminar) – Feb. 2026
 - Hitotsubashi University (Trade/Spatial) - March 2026
-- University of Pittsburgh (Macro) - March 2025
+- University of Pittsburgh (Macro) - March 2026
 - Federal Reserve Bank of San Francisco - April 2026
-- Chicago University (Trade/Spatial) – May 2026
+- UC San Diego The Korea-Pacific Program Webinar - April 2026
+- University of Chicago (Trade/Spatial) – May 2026
 - Kyoto Applied Econ Conference – July 2026
 - Northwestern University (Macro) – Sep 2026
 
@@ -37,7 +38,7 @@ permalink: /ja/
 ## 主な研究内容
 
 1. もはや各国のスキル賦存は関係ないのか？21世紀の国際貿易における比較優位
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  2025年5月改訂
 
 
 2. 企業数の有限性に起因する規模の経済と、経済集積への帰結

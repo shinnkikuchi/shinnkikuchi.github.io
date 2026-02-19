@@ -11,8 +11,9 @@ title: Home
 
 - Columbia University (Japan Economic Seminar) – Feb. 2026
 - Hitotsubashi University (Trade/Spatial) - March 2026
-- University of Pittsburgh (Macro) - March 2025
+- University of Pittsburgh (Macro) - March 2026
 - Federal Reserve Bank of San Francisco - April 2026
+- UC San Diego The Korea-Pacific Program Webinar - April 2026
 - University of Chicago (Trade/Spatial) – May 2026
 - Kyoto Applied Econ Conference – July 2026
 - Northwestern University (Macro) – Sep 2026
@@ -45,7 +46,7 @@ Draft Updated: Oct. 2025
 <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated: Jan. 2026
+Draft Updated: Feb. 2026
 <br>
 
 **4. "Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
