@@ -13,6 +13,8 @@ permalink: /ja/
 - University of Pittsburgh (Macro) - March 2025
 - Federal Reserve Bank of San Francisco - April 2026
 - Chicago University (Trade/Spatial) – May 2026
+- Kyoto Applied Econ Conference – July 2026
+- Northwestern University (Macro) – Sep 2026
 
 ## 研究・専門分野
 
@@ -39,31 +41,31 @@ permalink: /ja/
 
 
 2. 企業数の有限性に起因する規模の経済と、経済集積への帰結
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  2025年10月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年1月  
 
 3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">[英語論文PDF]</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
-   _Reject and Resubmit at Journal of Political Economy_  
+   _Reject and Resubmit at Journal of Political Economy_  2024年2月改訂
    2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
 4. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
-   1. <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  
+   1. <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年2月改訂
 
 5. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
-   1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a>
+   1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/26e012.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2026年2月
 
 6. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  2020年7月改訂
    2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
 
 
 ## 日本の労働市場に関する研究・レポート
 
 1. 育児・介護が仕事にもたらす影響
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a> 2025年7月  _Revise and Resubmit at Journal of Japanese and International Economies_  
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a>  _Revise and Resubmit at Journal of Japanese and International Economies_  2025年12月改訂 
    2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
 2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
