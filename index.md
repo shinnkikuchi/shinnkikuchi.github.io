@@ -14,6 +14,8 @@ title: Home
 - University of Pittsburgh (Macro) - March 2025
 - Federal Reserve Bank of San Francisco - April 2026
 - University of Chicago (Trade/Spatial) – May 2026
+- Kyoto Applied Econ Conference – July 2026
+- Northwestern University (Macro) – Sep 2026
 
 ## Trade / Macro-Labor
 
