@@ -107,7 +107,7 @@ Revise and Resubmit at Journal of the Japanese and International Economies; Draf
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated: May 2025
+Draft Updated: Feb 2026
 <br>
 
 **9. "Automation and Offshoring on Wage Inequality in Japan"**
