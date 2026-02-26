@@ -99,7 +99,7 @@ Submitted: Feb. 2026
 <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_LTC_Penalty.html" target="_blank">[Bib]</a>
 <br>
-Revise and Resubmit at Journal of the Japanese and International Economies; Draft Updated: Dec 2025
+Conditionally Accepted at Journal of the Japanese and International Economies; Draft Updated: Feb 2026
 <br>
 
 **8. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
