@@ -9,7 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- Hitotsubashi University (Trade/Spatial) - March 2026
 - University of Pittsburgh (Macro) - March 2026
 - Federal Reserve Bank of San Francisco - April 2026
 - UC San Diego The Korea-Pacific Program Webinar - April 2026
@@ -94,15 +93,7 @@ Submitted: Feb. 2026
 
 ## Japanese Labor Market
 
-**7. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
-<br>
-<a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/bib/KIKUCHI_LTC_Penalty.html" target="_blank">[Bib]</a>
-<br>
-Accepted at Journal of the Japanese and International Economies; Draft Updated: Feb 2026
-<br>
-
-**8. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
+**7. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
@@ -110,12 +101,21 @@ Accepted at Journal of the Japanese and International Economies; Draft Updated: 
 Draft Updated: Feb 2026
 <br>
 
-**9. "Automation and Offshoring on Wage Inequality in Japan"**
+**8. "Automation and Offshoring on Wage Inequality in Japan"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
 <br>
 Draft Updated: May 2025
+<br>
+
+**9. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
+<br>
+<a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/KIKUCHI_LTC_Penalty-JJIE.pdf" target="_blank">[Published ver.]</a>
+<a href="/files/research/bib/KIKUCHI_LTC_Penalty.html" target="_blank">[Bib]</a>
+<br>
+Journal of the Japanese and International Economies, Volume 80, June 2026
 <br>
 
 **10. "Automation and disappearing routine occupations in Japan"**

@@ -8,7 +8,6 @@ permalink: /ja/
 
 ## 直近の研究発表予定
 
-- Hitotsubashi University (Trade/Spatial) - March 2026
 - University of Pittsburgh (Macro) - March 2026
 - Federal Reserve Bank of San Francisco - April 2026
 - UC San Diego The Korea-Pacific Program Webinar - April 2026
@@ -67,20 +66,21 @@ permalink: /ja/
 
 ## 日本の労働市場に関する研究・レポート
 
-1. 育児・介護が仕事にもたらす影響
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[英語論文PDF]</a>  _Accepted at Journal of the Japanese and International Economies_  2026年2月改訂 
-   2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
-
-2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
+1. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
    1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-049, 2024年4月
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
-3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
+2. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
    1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-046, 2024年4月
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
+3. 育児・介護が仕事にもたらす影響：異質性を考慮して
+   1. <a href="https://www.sciencedirect.com/science/article/pii/S0889158326000122" target="_blank">[英語論文リンク]</a> 
+   Published in Journal of Japanese and International Economies, June 2026; <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">最終稿PDF</a>  
+   2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
+
 4. 自動化と、定型的作業を主とする職業の雇用シェア低下
-   1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[英語論文リンク]</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
+   1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[英語論文リンク]</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies, December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">RIETI ノンテクニカル・サマリー </a> 2023年11月
    
 5. コロナ危機で最も影響を受けるのは誰なのか？労働市場の異質性と厚生分析
