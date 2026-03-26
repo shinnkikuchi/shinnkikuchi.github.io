@@ -112,7 +112,7 @@ Draft Updated: May 2025
 **9. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
 <br>
 <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/KIKUCHI_LTC_Penalty-JJIE.pdf" target="_blank">[Published ver.]</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158326000122" target="_blank">[Published ver.]</a>
 <a href="/files/research/bib/KIKUCHI_LTC_Penalty.html" target="_blank">[Bib]</a>
 <br>
 Journal of the Japanese and International Economies, Volume 80, June 2026
@@ -121,7 +121,7 @@ Journal of the Japanese and International Economies, Volume 80, June 2026
 **10. "Automation and disappearing routine occupations in Japan"**
 <br>
 <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/FKS-robot-japan-JJIE.pdf" target="_blank">[Published ver.]</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[Published ver.]</a>
 <a href="/files/research/bib/FKS-robot-japan.html" target="_blank">[Bib]</a>
 <br>
 with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a>
@@ -133,7 +133,7 @@ Journal of the Japanese and International Economies, Volume 74, December 2024
 **11. "Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
 <br>
 <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/KKM-COVID19-JJIE.pdf" target="_blank">[Published ver.]</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">[Published ver.]</a>
 <a href="/files/research/bib/KKM-COVID19.html" target="_blank">[Bib]</a>
 <br>
 with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a> and
