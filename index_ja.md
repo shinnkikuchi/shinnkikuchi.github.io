@@ -8,8 +8,6 @@ permalink: /ja/
 
 ## 直近の研究発表予定
 
-- Federal Reserve Bank of San Francisco - April 2026
-- UC San Diego The Korea-Pacific Program Webinar - April 2026
 - University of Chicago (Trade/Spatial) – May 2026
 - Keio University – June 2026
 - Kyoto Applied Econ Conference – July 2026
