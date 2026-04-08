@@ -6,14 +6,6 @@ permalink: /ja/
 
 <br>
 
-## 直近の研究発表予定
-
-- University of Chicago (Trade/Spatial) – May 2026
-- Keio University – June 2026
-- Kyoto Applied Econ Conference – July 2026
-- Northwestern University (Macro) – Sep 2026
-- Federal Reserve Bank of Chicago – Sep 2026
-
 ## 研究・専門分野
 
 数理モデルとデータを用いて、以下のようなトピックを研究しています。
@@ -94,10 +86,11 @@ permalink: /ja/
 
 ## その他 
 ### 新聞・雑誌記事
-1. <a href="https://www.yomiuri.co.jp/local/kyushu/news/20251107-OYS1T50028/3/" target="_blank"> 「自動化こそ日本の勝ち筋」九州はセンサー・半導体の拠点 </a> 読売新聞 2025年11月
-2. <a href="https://www.nikkei.com/article/DGKKZO90353140Q5A730C2KE8000/" target="_blank">人手不足と経済成長(下)　自動化こそ日本の勝ち筋</a> 日本経済新聞経済教室 2025年7月 <a href="/files/memo/reference_nikkei_20250731_v202507310600.pdf" target="_blank">関連リンク集</a> 
-3. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
-4.  <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 東洋経済 2019年5月
+1. <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank"> 円安の根本原因は賃上げの停滞か　実質為替レートで新研究</a> 日本経済新聞 2026年3月
+2. <a href="https://www.yomiuri.co.jp/local/kyushu/news/20251107-OYS1T50028/3/" target="_blank"> 「自動化こそ日本の勝ち筋」九州はセンサー・半導体の拠点 </a> 読売新聞 2025年11月
+3. <a href="https://www.nikkei.com/article/DGKKZO90353140Q5A730C2KE8000/" target="_blank">人手不足と経済成長(下)　自動化こそ日本の勝ち筋</a> 日本経済新聞 経済教室 2025年7月 <a href="/files/memo/reference_nikkei_20250731_v202507310600.pdf" target="_blank">関連リンク集</a> 
+4. <a href="https://toyokeizai.net/articles/-/834064" target="_blank">アセモグルの弟子が解説､24年ノーベル経済学賞</a> 東洋経済 2024年10月
+5.  <a href="https://toyokeizai.net/articles/-/568186" target="_blank">テクノロジーがもたらす経済成長と雇用</a> 東洋経済 2019年5月
 
 ### メディア出演（のうちのいくつか）
 1. <a href="https://www.youtube.com/watch?v=H5IVSMGIoyg" target="_blank">【ひろゆきvsMIT】どうする円安時代!?日本での働き方と幸せになるには【ボビーvs安野貴博】</a>  
