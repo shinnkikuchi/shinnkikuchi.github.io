@@ -29,13 +29,12 @@ Draft Updated: May 2025
 **2. "Granular Origins of Agglomeration"**
 <br>
 <a href="/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank"> [Paper PDF]</a>
-<a href="/files/research/KIKUCHI-OCONNOR-granular-spatial-OnlineApp.pdf" target="_blank"> [Online Appendix PDF]</a>
 <a href="/files/research/slide-KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[Slide PDF]</a>
 <a href="/files/research/bib/KIKUCHI-OCONNOR-granular-spatial.html" target="_blank">[Bib]</a>
 <br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
 <br>
-Draft Updated: Oct. 2025
+Submitted: Apr. 2026
 <br>
 
 **3. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
