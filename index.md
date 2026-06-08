@@ -9,7 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- University of Chicago (Trade/Spatial) – May 2026
 - Econometric Society Hong Kong – June 2026
 - Keio University – June 2026
 - Kyoto Applied Econ Conference – July 2026
@@ -86,7 +85,7 @@ with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>,
 <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>
 <br>
-Submitted: Feb. 2026
+Draft Updated: Feb. 2026
 <br>
 
 ## Japanese Labor Market
