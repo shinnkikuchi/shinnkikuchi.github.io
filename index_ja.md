@@ -41,7 +41,7 @@ permalink: /ja/
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
 4. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
-   1. <a href="/files/research/KKKK-partisan-disbelief.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年2月改訂
+   1. <a href="/files/research/KKKK-partisan-misperception.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年6月改訂
 
 5. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
    1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
