@@ -74,7 +74,7 @@ and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 Reject and Resubmit at Journal of Political Economy; Draft Updated: Feb. 2024
 <br>
 
-**2. "Distrusting the Out-Party: Partisan Disbelief and Biased Information Processing"**
+**2. "Partisan Misperception in Knowledge Gap and Biased Information Processing"**
 <br>
 <a href="/files/research/KKKK-partisan-misperception.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/slide-KIKUCHI-fakenews.pdf" target="_blank">[Slide PDF]</a>
