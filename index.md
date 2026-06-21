@@ -81,11 +81,11 @@ Reject and Resubmit at Journal of Political Economy; Draft Updated: Feb. 2024
 <a href="https://www.socialscienceregistry.org/trials/16557" target="_blank">[AEA RCT Registry]</a>
 <a href="/files/research/bib/KKKK-partisan-disbelief.html" target="_blank">[Bib]</a>
 <br>
-with  <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>, 
-<a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, and
-<a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>
+with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Daiki Kishishita</a>, 
+<a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>, and
+<a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>
 <br>
-Draft Updated: June. 2026
+Submitted: June. 2026
 <br>
 
 ## Japanese Labor Market
