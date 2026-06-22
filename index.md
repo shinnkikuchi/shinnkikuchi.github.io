@@ -9,10 +9,9 @@ title: Home
 
 ## Upcoming Talks
 
-- Econometric Society Hong Kong – June 2026
 - Keio University – June 2026
 - Kyoto Applied Econ Conference – July 2026
-- Northwestern University (Macro) – Sep 2026
+- Northwestern University – Sep 2026
 - Federal Reserve Bank of Chicago – Sep 2026
 - Hitotsubashi-Gakushuin Conference on International Trade & FDI – Dec 2026
 
