@@ -7,8 +7,9 @@ title: Home
 ---
 <br>
 
-## Upcoming Talks
+## Recent Talks
 
+- University of Chicago – May 2026
 - Keio University – June 2026
 - Kyoto Applied Econ Conference – July 2026
 - Northwestern University – Sep 2026
