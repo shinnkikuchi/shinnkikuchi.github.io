@@ -23,13 +23,6 @@ permalink: /ja/
 - 2016年　東京大学経済学部経済学科 卒業; <a href="https://www.u-tokyo.ac.jp/focus/ja/articles/t_z1301_00010.html" target="_blank">卒業生総代（首席）</a>  
 - 2012年　京都 洛南高校卒業
 
-## 直近の発表予定
-- University of Chicago – May 2026
-- Keio University – June 2026
-- Kyoto Applied Econ Conference – July 2026
-- Northwestern University – Sep 2026
-- Federal Reserve Bank of Chicago – Sep 2026
-- Hitotsubashi-Gakushuin Conference on International Trade & FDI – Dec 2026
 
 ## 主な研究内容
 
