@@ -14,7 +14,7 @@ title: Home
 - Federal Reserve Bank of Chicago – Sep 2026
 - Hitotsubashi-Gakushuin Conference on International Trade & FDI – Dec 2026
 
-## Trade / Macro-Labor
+## Trade / Macro
 
 **1. "Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
 <br>
