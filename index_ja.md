@@ -36,7 +36,7 @@ permalink: /ja/
 
 3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">[英語論文PDF]</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
-   _Reject and Resubmit at Journal of Political Economy_  2024年2月改訂
+   _Reject and Resubmit at Journal of Political Economy_  2026年7月改訂
    2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
