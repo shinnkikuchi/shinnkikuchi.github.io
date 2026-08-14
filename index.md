@@ -87,9 +87,17 @@ with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Da
 Submitted; Draft Updated: June. 2026
 <br>
 
-## Japanese Labor Market
+## Japanese Economy
 
-**1. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
+**1. "Foreign Exchange Intervention at Turning Points: Case of Japan"**
+<br>
+<a href="/files/research/KIKUCHI-JPN-FXI.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/bib/KIKUCHI-JPN-FXI.html" target="_blank">[Bib]</a>
+<br>
+Draft Updated: Aug 2026
+<br>
+
+**2. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
@@ -97,7 +105,7 @@ Submitted; Draft Updated: June. 2026
 Draft Updated: Feb 2026
 <br>
 
-**2. "Automation and Offshoring on Wage Inequality in Japan"**
+**3. "Automation and Offshoring on Wage Inequality in Japan"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
@@ -105,7 +113,7 @@ Draft Updated: Feb 2026
 Draft Updated: May 2025
 <br>
 
-**3. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
+**4. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
 <br>
 <a href="/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">[Paper PDF]</a>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158326000122" target="_blank">[Published ver.]</a>
@@ -114,7 +122,7 @@ Draft Updated: May 2025
 Journal of the Japanese and International Economies, Volume 80, June 2026
 <br>
 
-**4. "Automation and disappearing routine occupations in Japan"**
+**5. "Automation and disappearing routine occupations in Japan"**
 <br>
 <a href="/files/research/FKS-robot-japan.pdf" target="_blank">[Paper PDF]</a>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[Published ver.]</a>
@@ -126,7 +134,7 @@ with <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippe
 Journal of the Japanese and International Economies, Volume 74, December 2024
 <br>
 
-**5. "Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
+**6. "Who Suffers from the COVID-19 Shocks? Labor Market Heterogeneity and Welfare Consequences in Japan"**
 <br>
 <a href="/files/research/KKM-COVID19.pdf" target="_blank">[Paper PDF]</a>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">[Published ver.]</a>
