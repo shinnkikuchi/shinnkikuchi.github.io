@@ -61,12 +61,14 @@ permalink: /ja/
    3. <a href="https://www.crepe.e.u-tokyo.ac.jp/results/2026/crepedp203.html" target="_blank">[CREPE掲載ページ]</a>
 
 2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
-   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-049, 2024年4月
-   2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
+   1. <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
+   2. <a href="https://www.rieti.go.jp/jp/publications/summary/24040006.html" target="_blank">[RIETI掲載ページ]</a> RIETI Discussion Paper 24-E-049, 2024年4月
+   3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
 
 3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
-   1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-046, 2024年4月
-   2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
+   1. <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[英語論文PDF]</a> 2025年5月改訂
+   2. <a href="https://www.rieti.go.jp/jp/publications/summary/24040003.html" target="_blank">[RIETI掲載ページ]</a> RIETI Discussion Paper 24-E-046, 2024年4月
+   3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
 
 4. 育児・介護が仕事にもたらす影響：異質性を考慮して
    1. <a href="https://www.sciencedirect.com/science/article/pii/S0889158326000122" target="_blank">[英語論文リンク]</a> 
