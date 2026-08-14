@@ -96,23 +96,27 @@ Submitted; Draft Updated: June. 2026
 <br>
 Draft Updated: Aug 2026
 <br>
+Also as <a href="https://www.crepe.e.u-tokyo.ac.jp/results/2026/CREPEDP204.pdf" target="_blank">[CREPE Discussion Paper 204]</a> in Aug 2026
+<br>
 
 **2. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
-<a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">RIETI Discussion Paper 24-E-049</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
 <br>
 Draft Updated: Feb 2026
+<br>
+Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[RIETI Discussion Paper 24-E-049]</a> in Apr 2024
 <br>
 
 **3. "Automation and Offshoring on Wage Inequality in Japan"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
-<a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">RIETI Discussion Paper 24-E-046</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
 <br>
 Draft Updated: May 2025
+<br>
+Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a> in Apr 2024
 <br>
 
 **4. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
