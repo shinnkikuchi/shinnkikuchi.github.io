@@ -14,7 +14,7 @@ permalink: /ja/
 - 国際貿易と製造業の国際競争力や労働市場の関係
 - 政治における、ポピュリズム台頭や二極化
 
-また、日本の労働市場に関しても複数の研究を行っています。
+また、日本経済に関しても複数の研究を行っています。
 
 ## 略歴
 - 2025年　マサチューセッツ工科大学（MIT） 経済学博士  
@@ -53,30 +53,35 @@ permalink: /ja/
    2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
 
 
-## 日本の労働市場に関する研究・レポート
+## 日本経済に関する研究・レポート
 
-1. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
+1. 転換点としての外国為替介入：日本の事例
+   1. <a href="/files/research/KIKUCHI-JPN-FXI-CREPE.pdf" target="_blank">[英語論文PDF]</a> CREPE Discussion Paper 204, 2026年8月
+   2. <a href="/files/research/KIKUCHI-JPN-FXI-inJPN-CREPE.pdf" target="_blank">[日本語論文PDF]</a> CREPE Discussion Paper 203, 2026年8月
+   3. <a href="https://www.crepe.e.u-tokyo.ac.jp/results/2026/crepedp203.html" target="_blank">[CREPE掲載ページ]</a>
+
+2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
    1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-049, 2024年4月
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
-2. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
+3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
    1. <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[英語論文PDF]</a> RIETI Discussion Paper 24-E-046, 2024年4月
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月  
 
-3. 育児・介護が仕事にもたらす影響：異質性を考慮して
+4. 育児・介護が仕事にもたらす影響：異質性を考慮して
    1. <a href="https://www.sciencedirect.com/science/article/pii/S0889158326000122" target="_blank">[英語論文リンク]</a> 
    Published in Journal of Japanese and International Economies, June 2026; <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
-4. 自動化と、定型的作業を主とする職業の雇用シェア低下
+5. 自動化と、定型的作業を主とする職業の雇用シェア低下
    1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[英語論文リンク]</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies, December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">RIETI ノンテクニカル・サマリー </a> 2023年11月
    
-5. コロナ危機で最も影響を受けるのは誰なのか？労働市場の異質性と厚生分析
+6. コロナ危機で最も影響を受けるのは誰なのか？労働市場の異質性と厚生分析
    1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2020年7月
 
-6. 新型コロナ（COVID-19）危機が引き起こす格差の拡大
+7. 新型コロナ（COVID-19）危機が引き起こす格差の拡大
    1. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, 2020年4月 
    2. <a href="https://cepr.org/voxeu/columns/heterogeneous-employment-vulnerability-and-inequality-japan" target="_blank">VoxEU Column</a> 2020年5月
    3. <a href="https://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html" target="_blank">CREPEコラム</a>  2020年5月
