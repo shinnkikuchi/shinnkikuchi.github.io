@@ -41,6 +41,7 @@ Draft Updated: Apr. 2026
 <br>
 <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
+ <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">[Nikkei (in JPN)]</a>
 <br>
 Draft Updated: Feb. 2026
 <br>
