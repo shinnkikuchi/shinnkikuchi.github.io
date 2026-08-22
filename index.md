@@ -20,10 +20,9 @@ title: Home
 **1. "Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
 <br>
 <a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a>
 <a href="/files/research/bib/KIKUCHI-skill-trade.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated: May 2025
+Submitted; Draft Updated: Aug 2026
 <br>
 
 **2. "Granular Origins of Agglomeration"**
@@ -54,7 +53,7 @@ Draft Updated: Feb. 2026
 <br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
-Draft Updated: July 2020
+Draft Updated: July 2020; New Version Coming Soon
 <br>
 
 
@@ -85,7 +84,7 @@ with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Da
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>, and
 <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>
 <br>
-Submitted; Draft Updated: June. 2026
+Draft Updated: June. 2026
 <br>
 
 ## Japanese Economy
