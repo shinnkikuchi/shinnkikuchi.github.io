@@ -13,6 +13,7 @@ title: Home
 - Northwestern University – Sep 2026
 - Federal Reserve Bank of Chicago – Sep 2026
 - Claremont McKenna College – Oct 2026
+- North Carolina State University – Nov 2026
 - Hitotsubashi-Gakushuin Conference on International Trade & FDI – Dec 2026
 
 ## Trade / Macro
