@@ -27,11 +27,11 @@ permalink: /ja/
 ## 主な研究内容
 
 1. もはや各国のスキル賦存は関係ないのか？21世紀の国際貿易における比較優位
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  2025年5月改訂
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  2026年8月改訂
 
 
 2. 企業数の有限性に起因する規模の経済と、経済集積への帰結
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  2026年4月改訂
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  2026年8月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年1月  
 
 3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
