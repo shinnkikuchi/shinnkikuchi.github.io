@@ -85,7 +85,7 @@ with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Da
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>, and
 <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>
 <br>
-Draft Updated: June. 2026
+Draft Updated: June. 2026; New Version Coming Soon
 <br>
 
 ## Japanese Economy
@@ -105,7 +105,7 @@ Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated: May 2025
+Draft Updated: May 2025; New Version Coming Soon
 <br>
 Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a> in Apr 2024
 <br>
