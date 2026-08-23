@@ -24,7 +24,7 @@ permalink: /ja/
 - 2012年　京都 洛南高校卒業
 
 
-## 主な研究内容
+## 国際経済・マクロ経済学
 
 1. もはや各国のスキル賦存は関係ないのか？21世紀の国際貿易における比較優位
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  2026年8月改訂
@@ -34,6 +34,17 @@ permalink: /ja/
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  2026年8月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年1月  
 
+3. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
+   1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
+   2. <a href="https://www.rieti.go.jp/jp/publications/nts/26e012.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2026年2月
+   3. <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">円安の根本原因は賃上げの停滞か　実質為替レートで新研究（日本経済新聞）</a>  2026年3月
+
+4. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  2020年7月改訂
+   2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
+
+
+## 政治経済学
 3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">[英語論文PDF]</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
    _Reject and Resubmit at Journal of Political Economy_  2026年7月改訂
@@ -43,17 +54,7 @@ permalink: /ja/
 4. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
    1. <a href="/files/research/KKKK-partisan-misperception.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年6月改訂
 
-5. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
-   1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
-   2. <a href="https://www.rieti.go.jp/jp/publications/nts/26e012.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2026年2月
-   3. <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">円安の根本原因は賃上げの停滞か　実質為替レートで新研究（日本経済新聞）</a>  2026年3月
-
-6. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  2020年7月改訂
-   2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
-
-
-## 日本経済に関する研究・レポート
+## 日本経済（マクロ・国際貿易・為替・労働）
 
 1. 転換点としての外国為替介入：日本の事例
    1. <a href="/files/research/KIKUCHI-JPN-FXI-CREPE.pdf" target="_blank">[英語論文PDF]</a> CREPE Discussion Paper 204, 2026年8月
