@@ -45,13 +45,13 @@ permalink: /ja/
 
 
 ## 政治経済学
-3. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
+1. 極右政党の台頭､理由は｢世論右傾化｣ではない 極右ポピュリスト政党の支持率上昇要因を分析
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/DGKL-Populism.pdf" target="_blank">[英語論文PDF]</a> (joint with Oren Danieli, Noam Gidron, and Ro’ee Levy)  
    _Reject and Resubmit at Journal of Political Economy_  2026年7月改訂
    2. <a href="https://toyokeizai.net/articles/-/728611" target="_blank">週刊東洋経済Plus</a> 2024年1月
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
-4. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
+2. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
    1. <a href="/files/research/KKKK-partisan-misperception.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年6月改訂
 
 ## 日本経済（マクロ・国際貿易・為替・労働）
