@@ -23,7 +23,7 @@ title: Home
 <a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI-skill-trade.html" target="_blank">[Bib]</a>
 <br>
-Submitted; Draft Updated: Aug 2026
+Submitted; Draft Updated in Aug 2026
 <br>
 
 **2. "Granular Origins of Agglomeration"**
@@ -34,7 +34,7 @@ Submitted; Draft Updated: Aug 2026
 <br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
 <br>
-Submitted; Draft Updated: Aug. 2026
+Submitted; Draft Updated in Aug 2026
 <br>
 
 **3. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
@@ -43,7 +43,7 @@ Submitted; Draft Updated: Aug. 2026
 <a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
  <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">[Nikkei (in JPN)]</a>
 <br>
-Draft Updated: Feb. 2026
+Draft Updated in Feb. 2026
 <br>
 
 **4. "Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
@@ -54,7 +54,7 @@ Draft Updated: Feb. 2026
 <br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
-Draft Updated: July 2020; New Version Coming Soon
+Draft Updated in July 2020; New Version Coming Soon
 <br>
 
 
@@ -71,7 +71,7 @@ with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>
 <a href="https://noamgidron.com/" target="_blank">Noam Gidron</a>, 
 and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 <br>
-Reject and Resubmit at Journal of Political Economy; Draft Updated: July. 2026
+Reject and Resubmit at Journal of Political Economy; Draft Updated in July. 2026
 <br>
 
 **2. "Partisan Misperception in Knowledge Gap and Biased Information Processing"**
@@ -85,7 +85,7 @@ with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Da
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>, and
 <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>
 <br>
-Draft Updated: June. 2026; New Version Coming Soon
+Submitted; Draft Updated in Aug. 2026
 <br>
 
 ## Japanese Economy
@@ -95,7 +95,7 @@ Draft Updated: June. 2026; New Version Coming Soon
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated: Feb 2026
+Draft Updated in Feb 2026
 <br>
 Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[RIETI Discussion Paper 24-E-049]</a> in Apr 2024
 <br>
@@ -105,7 +105,7 @@ Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated: May 2025; New Version Coming Soon
+Draft Updated in May 2025; New Version Coming Soon
 <br>
 Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a> in Apr 2024
 <br>
