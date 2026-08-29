@@ -90,17 +90,7 @@ Submitted; Draft Updated in Aug. 2026
 
 ## Japanese Economy
 
-**1. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
-<br>
-<a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
-<br>
-Draft Updated in Feb 2026
-<br>
-Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[RIETI Discussion Paper 24-E-049]</a> in Apr 2024
-<br>
-
-**2. "Automation and Offshoring on Wage Inequality in Japan"**
+**1. "Automation and Offshoring on Wage Inequality in Japan"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
@@ -108,6 +98,16 @@ Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="
 Submitted; Draft Updated in Aug 2026
 <br>
 Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a> in Apr 2024
+<br>
+
+**2. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
+<br>
+<a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
+<br>
+Draft Updated in Feb 2026
+<br>
+Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[RIETI Discussion Paper 24-E-049]</a> in Apr 2024
 <br>
 
 **3. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
