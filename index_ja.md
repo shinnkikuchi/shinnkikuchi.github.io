@@ -52,7 +52,7 @@ permalink: /ja/
    3. <a href="https://cepr.org/voxeu/columns/decomposing-rise-populist-radical-right-how-changes-priorities-explain-electoral" target="_blank">VoxEU Column</a> 2023年4月  
 
 2. 分極化社会における他党支持者の知識水準への過小評価：米国と韓国におけるエビデンス
-   1. <a href="/files/research/KKKK-partisan-misperception.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年6月改訂
+   1. <a href="/files/research/KKKK-partisan-misperception.pdf" target="_blank">[英語論文PDF]</a> (joint with Daiki Kishishita, Yesola Kweon, Yuko Kasuya)  2026年8月改訂
 
 ## 日本経済（マクロ・国際貿易・為替・労働）
 
@@ -67,7 +67,7 @@ permalink: /ja/
    3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
 
 3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
-   1. <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[英語論文PDF]</a> 2025年5月改訂
+   1. <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[英語論文PDF]</a> 2026年8月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/summary/24040003.html" target="_blank">[RIETI掲載ページ]</a> RIETI Discussion Paper 24-E-046, 2024年4月
    3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
 

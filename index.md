@@ -105,7 +105,7 @@ Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
 <br>
-Draft Updated in May 2025; New Version Coming Soon
+Submitted; Draft Updated in Aug 2026
 <br>
 Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a> in Apr 2024
 <br>
