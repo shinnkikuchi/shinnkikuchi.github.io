@@ -90,7 +90,7 @@ Submitted; Draft Updated in Aug. 2026
 
 ## Japanese Economy
 
-**1. "Automation and Offshoring on Wage Inequality in Japan"**
+**1. "Automation, Offshoring, and Wage Inequality in Japan"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
