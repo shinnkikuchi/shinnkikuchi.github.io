@@ -9,7 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- National Taiwan University – Sep 2026 
 - Northwestern University – Sep 2026
 - Federal Reserve Bank of Chicago – Sep 2026
 - Claremont McKenna College – Oct 2026
