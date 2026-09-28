@@ -50,7 +50,7 @@ Draft Updated in Feb. 2026
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Abstract PDF]</a>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
-Draft Updated in July 2020; New Draft Coming Soon
+Updated in Sep. 2026; New Draft Coming Soon
 <br>
 <a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
 <br>
