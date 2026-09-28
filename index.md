@@ -45,18 +45,15 @@ Submitted; Draft Updated in Aug 2026
 Draft Updated in Feb. 2026
 <br>
 
-**4. "Welfare Effects of Polarization: Occupational Mobility over the Life-cycle"**
+**4. "Taxing Automation? A Case for Redistribution across Skills and Generations"**
 <br>
-<a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a>
-<a href="/files/research/slide-KK-ROBOT.pdf" target="_blank">[Slide PDF]</a>
-<a href="/files/research/bib/KK-ROBOT.html" target="_blank">[Bib]</a>
-<br>
+<a href="/files/research/KK-ROBOT.pdf" target="_blank">[Abstract PDF]</a>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
-Draft Updated in July 2020; New Version Coming Soon
+Draft Updated in July 2020; New Draft Coming Soon
 <br>
-
-
+<a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
+<br>
 ## Political Economy
 
 **1. "Decomposing the Rise of the Populist Radical Right"**
