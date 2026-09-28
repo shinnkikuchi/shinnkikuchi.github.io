@@ -20,6 +20,7 @@ title: Home
 **1. "Does Skill Abundance Still Matter? The Evolution of Comparative Advantage in the 21st Century"**
 <br>
 <a href="/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/slide-KIKUCHI-skill-trade.pdf" target="_blank">[Slide PDF]</a>
 <a href="/files/research/bib/KIKUCHI-skill-trade.html" target="_blank">[Bib]</a>
 <br>
 Submitted; Draft Updated in Aug 2026
