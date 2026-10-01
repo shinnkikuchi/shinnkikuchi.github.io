@@ -82,7 +82,7 @@ with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Da
 <a href="https://yesolakweon.github.io/" target="_blank">Yesola Kweon</a>, and
 <a href="https://yukokasuya.com/" target="_blank">Yuko Kasuya</a>
 <br>
-Submitted; Draft Updated in Aug. 2026
+Reject and Resubmit at Journal of Public Economics; Draft Updated in Aug. 2026
 <br>
 
 ## Japanese Economy
