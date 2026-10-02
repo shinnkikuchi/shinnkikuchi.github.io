@@ -56,19 +56,6 @@ Updated in Sep. 2026; New Draft Coming Soon
 <a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
 <br>
 
-**5. "Taxing Million Dollar Plants: Optimal Local Policy with Firm Heterogeneity"**
-<br>
-with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
-<br>
-Work in Progress
-<br>
-
-**6. "Revisiting Balassa-Samuelson: Theory, Evidence, and Measurement"**
-<br>
-with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
-<br>
-Work in Progress
-<br>
 
 ## Political Economy
 
