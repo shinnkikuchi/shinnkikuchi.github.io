@@ -14,6 +14,7 @@ title: Home
 - Claremont McKenna College – Oct 2026
 - North Carolina State University – Nov 2026
 - Hitotsubashi-Gakushuin Conference on International Trade & FDI – Dec 2026
+- The Chinese University of Hong Kong – Mar 2027
 
 ## Trade / Macro
 
