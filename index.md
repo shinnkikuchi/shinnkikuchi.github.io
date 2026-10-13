@@ -51,11 +51,10 @@ Draft Updated in Feb. 2026
 **4. "Taxing Automation? A Case for Redistribution across Skills and Generations"**
 <br>
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Abstract PDF]</a>
+<a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
 Updated in Sep. 2026; New Draft Coming Soon
-<br>
-<a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
 <br>
 
 
@@ -95,20 +94,18 @@ Reject and Resubmit at Journal of Public Economics; Draft Updated in Aug. 2026
 <br>
 <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_techtrade_ineq.html" target="_blank">[Bib]</a>
+<a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a>
 <br>
 Submitted; Draft Updated in Aug 2026
-<br>
-Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e046.pdf" target="_blank">[RIETI Discussion Paper 24-E-046]</a> in Apr 2024
 <br>
 
 **2. "Trends in National and Local Market Concentration in Japan: 1980-2020"**
 <br>
 <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI_JPN_concentration.html" target="_blank">[Bib]</a>
+<a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[RIETI Discussion Paper 24-E-049]</a>
 <br>
 Draft Updated in Feb 2026
-<br>
-Also as <a href="https://www.rieti.go.jp/jp/publications/dp/24e049.pdf" target="_blank">[RIETI Discussion Paper 24-E-049]</a> in Apr 2024
 <br>
 
 **3. "Who Bears the Burden? Heterogeneous Labor Market Penalties of Child and Eldercare"**
