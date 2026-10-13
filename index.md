@@ -13,7 +13,8 @@ title: Home
 - Federal Reserve Bank of Chicago – Sep 2026
 - Claremont McKenna College – Oct 2026
 - North Carolina State University – Nov 2026
-- Hitotsubashi-Gakushuin Conference on International Trade & FDI – Dec 2026
+- Hitotsubashi-Gakushuin Conference on International Trade & FDI (Tokyo) – Dec 2026
+- Canon Institute for Global Studies  Year End Macroeconomics Conference (Tokyo) – Dec 2026
 - The Chinese University of Hong Kong – Mar 2027
 
 ## Trade / Macro
