@@ -9,9 +9,6 @@ title: Home
 
 ## Upcoming Talks
 
-- Northwestern University – Sep 2026
-- Federal Reserve Bank of Chicago – Sep 2026
-- Claremont McKenna College – Oct 2026
 - North Carolina State University – Nov 2026
 - Hitotsubashi-Gakushuin Conference on International Trade & FDI (Tokyo) – Dec 2026
 - Canon Institute for Global Studies  Year End Macroeconomics Conference (Tokyo) – Dec 2026
@@ -39,23 +36,23 @@ with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor
 Submitted; Draft Updated in Aug 2026
 <br>
 
-**3. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
+**3. "Taxing Automation? A Case for Redistribution across Skills and Generations"**
+<br>
+<a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a>
+<a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
+<br>
+with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
+<br>
+Draft Updated in Oct. 2026
+<br>
+
+**4. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
 <br>
 <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/bib/KIKUCHI-balassa-samuelson-longrun.html" target="_blank">[Bib]</a>
  <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">[Nikkei (in JPN)]</a>
 <br>
 Draft Updated in Feb. 2026
-<br>
-
-**4. "Taxing Automation? A Case for Redistribution across Skills and Generations"**
-<br>
-<a href="/files/research/KK-ROBOT.pdf" target="_blank">[Abstract PDF]</a>
-<a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
-<br>
-with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
-<br>
-Updated in Sep. 2026; New Draft Coming Soon
 <br>
 
 
