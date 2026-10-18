@@ -29,19 +29,17 @@ permalink: /ja/
 1. もはや各国のスキル賦存は関係ないのか？21世紀の国際貿易における比較優位
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-skill-trade.pdf" target="_blank">[英語論文PDF]</a>  2026年8月改訂
 
-
 2. 企業数の有限性に起因する規模の経済と、経済集積への帰結
    1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI-OCONNOR-granular-spatial.pdf" target="_blank">[英語論文PDF]</a> (joint with Daniel G O'Connor)  2026年8月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/24e005.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年1月  
 
-3. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
+3. 自動化への課税：教育水準や世代における格差拡大の観点
+   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  2026年10月改訂
+
+4. バラッサ・サミュエルソン仮説と実質為替の長期的変化：定性的な成功と定量的な限界
    1. <a href="/files/research/KIKUCHI-BS.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/26e012.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2026年2月
    3. <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">円安の根本原因は賃上げの停滞か　実質為替レートで新研究（日本経済新聞）</a>  2026年3月
-
-4. 米国における、技術革新と二極化：教育水準や世代における格差拡大の観点
-   1. <a href="https://www.shinnosuke-kikuchi.com/files/research/KK-ROBOT.pdf" target="_blank">[英語論文PDF]</a> (joint with Sagiri Kitao)  2020年7月改訂
-   2. <a href="https://www.rieti.go.jp/jp/columns/a01_0605.html" target="_blank">RIETIコラム</a>  2020年7月
 
 
 ## 政治経済学
@@ -56,33 +54,33 @@ permalink: /ja/
 
 ## 日本経済（マクロ・国際貿易・為替・労働）
 
-1. 転換点としての外国為替介入：日本の事例
-   1. <a href="/files/research/KIKUCHI-JPN-FXI-CREPE.pdf" target="_blank">[英語論文PDF]</a> CREPE Discussion Paper 204, 2026年8月
-   2. <a href="/files/research/KIKUCHI-JPN-FXI-inJPN-CREPE.pdf" target="_blank">[日本語論文PDF]</a> CREPE Discussion Paper 203, 2026年8月
-   3. <a href="https://www.crepe.e.u-tokyo.ac.jp/results/2026/crepedp203.html" target="_blank">[CREPE掲載ページ]</a>
+1. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
+   1. <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[英語論文PDF]</a> 2026年8月改訂
+   2. <a href="https://www.rieti.go.jp/jp/publications/summary/24040003.html" target="_blank">[RIETI掲載ページ]</a> RIETI Discussion Paper 24-E-046, 2024年4月
+   3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
 
 2. 製品市場ならびに労働市場における集中度のトレンド：1980–2020
    1. <a href="/files/research/KIKUCHI_JPN_concentration.pdf" target="_blank">[英語論文PDF]</a> 2026年2月改訂
    2. <a href="https://www.rieti.go.jp/jp/publications/summary/24040006.html" target="_blank">[RIETI掲載ページ]</a> RIETI Discussion Paper 24-E-049, 2024年4月
    3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e049.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
 
-3. 自動化とオフショアリングによるタスクの代替が賃金格差に与える影響
-   1. <a href="/files/research/KIKUCHI_JPN_techtrade_ineq.pdf" target="_blank">[英語論文PDF]</a> 2026年8月改訂
-   2. <a href="https://www.rieti.go.jp/jp/publications/summary/24040003.html" target="_blank">[RIETI掲載ページ]</a> RIETI Discussion Paper 24-E-046, 2024年4月
-   3. <a href="https://www.rieti.go.jp/jp/publications/nts/24e046.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2024年4月
-
-4. 育児・介護が仕事にもたらす影響：異質性を考慮して
+3. 育児・介護が仕事にもたらす影響：異質性を考慮して
    1. <a href="https://www.sciencedirect.com/science/article/pii/S0889158326000122" target="_blank">[英語論文リンク]</a> 
    Published in Journal of Japanese and International Economies, June 2026; <a href="https://www.shinnosuke-kikuchi.com/files/research/KIKUCHI_LTC_Penalty.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.works-i.com/surveys/column/jpsedcolumn/detail006.html" target="_blank">リクルートワークス研究所コラム</a>  2025年6月  
 
-5. 自動化と、定型的作業を主とする職業の雇用シェア低下
+4. 自動化と、定型的作業を主とする職業の雇用シェア低下
    1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0889158324000340" target="_blank">[英語論文リンク]</a> (joint with Ippei Fujiwara and Toyoichiro Shirota) Published in Journal of Japanese and International Economies, December 2024; <a href="https://www.shinnosuke-kikuchi.com/files/research/FKS-robot-japan.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.rieti.go.jp/jp/publications/nts/23e082.html" target="_blank">RIETI ノンテクニカル・サマリー </a> 2023年11月
    
-6. コロナ危機で最も影響を受けるのは誰なのか？労働市場の異質性と厚生分析
+5. コロナ危機で最も影響を受けるのは誰なのか？労働市場の異質性と厚生分析
    1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S088915832030054X" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) Published in Journal of Japanese and International Economies, March 2021; <a href="https://www.shinnosuke-kikuchi.com/files/research/KKM-COVID19.pdf" target="_blank">最終稿PDF</a>  
    2. <a href="https://www.rieti.go.jp/jp/publications/summary/20070004.html" target="_blank">RIETI ノンテクニカル・サマリー</a>  2020年7月
+
+6. 転換点としての外国為替介入：日本の事例
+   1. <a href="/files/research/KIKUCHI-JPN-FXI-CREPE.pdf" target="_blank">[英語論文PDF]</a> CREPE Discussion Paper 204, 2026年8月
+   2. <a href="/files/research/KIKUCHI-JPN-FXI-inJPN-CREPE.pdf" target="_blank">[日本語論文PDF]</a> CREPE Discussion Paper 203, 2026年8月
+   3. <a href="https://www.crepe.e.u-tokyo.ac.jp/results/2026/crepedp203.html" target="_blank">[CREPE掲載ページ]</a>
 
 7. 新型コロナ（COVID-19）危機が引き起こす格差の拡大
    1. <a href="https://www.rieti.go.jp/jp/publications/summary/20040020.html" target="_blank">[英語論文リンク]</a> (joint with Sagiri Kitao and Minamo Mikoshiba) RIETI Discussion Paper 20-E-039, 2020年4月 

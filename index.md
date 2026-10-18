@@ -40,6 +40,7 @@ Submitted; Draft Updated in Aug 2026
 <br>
 <a href="/files/research/KK-ROBOT.pdf" target="_blank">[Paper PDF]</a>
 <a href="/files/research/KK-ROBOT-old.pdf" target="_blank">[Earlier Version PDF]</a>
+<a href="/files/research/bib/KK-ROBOT.html" target="_blank">[Bib]</a>
 <br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
