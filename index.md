@@ -44,7 +44,7 @@ Submitted; Draft Updated in Aug 2026
 <br>
 with <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">Sagiri Kitao</a>
 <br>
-Draft Updated in Oct. 2026
+Submitted; Draft Updated in Oct. 2026
 <br>
 
 **4. "Balassa–Samuelson in the Long Run: Qualitative Success, Quantitative Limits"**
