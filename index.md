@@ -56,20 +56,6 @@ Submitted; Draft Updated in Oct. 2026
 Draft Updated in Feb. 2026
 <br>
 
-**5. "Revisiting Balassa-Samuelson: Theory and Evidence"**
-<br>
-with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
-<br>
-Draft available soon
-<br>
-
-
-**6. "Industries That Meet: Face-to-Face Contact, Colocation, and Trade"**
-<br>
-with Shota Komatsu, Kentaro Nakajima, Kensuke Teshima, and Junichi Yamasaki
-<br>
-Draft available soon
-<br>
 
 ## Political Economy
 
