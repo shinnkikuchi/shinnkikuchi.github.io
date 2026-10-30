@@ -87,7 +87,8 @@ with  <a href="https://sites.google.com/site/kishishitaecon/" target="_blank">Da
 Reject and Resubmit at Journal of Public Economics; Draft Updated in Aug. 2026
 <br>
 
-## Japanese Economy
+<details class="japanese-economy" markdown="1">
+<summary><h2 id="japanese-economy">Japanese Economy</h2></summary>
 
 **1. "Automation, Offshoring, and Wage Inequality in Japan"**
 <br>
@@ -136,3 +137,5 @@ with  <a href="https://sites.google.com/site/sagirikitao/home" target="_blank">S
 <br>
 Journal of the Japanese and International Economies, Volume 59, March 2021
 <br>
+
+</details>

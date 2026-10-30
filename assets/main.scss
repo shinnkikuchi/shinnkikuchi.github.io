@@ -4,6 +4,15 @@
 
 @import "minima";
 
+.japanese-economy > summary {
+  cursor: pointer;
+  margin-bottom: $spacing-unit / 2;
+
+  h2 {
+    display: inline;
+  }
+}
+
 // Columns for profile section (Image and Text side-by-side)
 .columnright {
   float: right;
