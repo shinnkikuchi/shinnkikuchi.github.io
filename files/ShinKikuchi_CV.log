@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.28)  27 OCT 2026 17:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.28)  30 OCT 2026 00:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -255,7 +255,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks18
 )
-No file ShinKikuchi_CV.aux.
+(./ShinKikuchi_CV.aux)
 \openout1 = `ShinKikuchi_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -276,6 +276,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
+
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count278
@@ -291,6 +292,7 @@ LaTeX Font Info:    ... okay on input line 28.
 \everyMPtoPDFconversion=\toks20
 )
 Package hyperref Info: Link coloring ON on input line 28.
+ (./ShinKikuchi_CV.out) (./ShinKikuchi_CV.out)
 \@outlinefile=\write3
 \openout3 = `ShinKikuchi_CV.out'.
 
@@ -339,32 +341,26 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 28--28
 ]
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }] [3] (./ShinKikuchi_CV.aux)
-
-Package rerunfilecheck Warning: File `ShinKikuchi_CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ShinKikuchi_CV.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `ShinKikuchi_CV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9751 strings out of 476025
- 156405 string characters out of 5790016
- 1863388 words of memory out of 5000000
+ 9756 strings out of 476025
+ 156512 string characters out of 5790016
+ 1864388 words of memory out of 5000000
  30099 multiletter control sequences out of 15000+600000
  514188 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,615b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,77p,615b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on ShinKikuchi_CV.pdf (3 pages, 92124 bytes).
+Output written on ShinKikuchi_CV.pdf (3 pages, 92283 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 71 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
