@@ -70,7 +70,7 @@ with <a href="https://www.orendanieli.com/home" target="_blank">Oren Danieli</a>
 <a href="https://noamgidron.com/" target="_blank">Noam Gidron</a>, 
 and <a href="https://www.roeelevy.com/" target="_blank">Ro'ee Levy</a>
 <br>
-Reject and Resubmit at Journal of Political Economy; Draft Updated in July. 2026
+Conditionally Accepted at Journal of Political Economy; Draft Updated in July. 2026
 <br>
 
 **2. "Partisan Misperception in Knowledge Gap and Biased Information Processing"**
