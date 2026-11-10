@@ -7,12 +7,7 @@ title: Home
 ---
 <br>
 
-## Upcoming Talks
 
-- North Carolina State University – Nov 2026
-- Hitotsubashi-Gakushuin Conference on International Trade & FDI (Tokyo) – Dec 2026
-- Canon Institute for Global Studies  Year End Macroeconomics Conference (Tokyo) – Dec 2026
-- The Chinese University of Hong Kong – Mar 2027
 
 ## Trade / Macro
 
@@ -54,6 +49,28 @@ Submitted; Draft Updated in Oct. 2026
  <a href="https://www.nikkei.com/article/DGXZQOCD046LV0U6A300C2000000/" target="_blank">[Nikkei (in JPN)]</a>
 <br>
 Draft Updated in Feb. 2026
+<br>
+
+**5. "Revisiting Balassa-Samuelson: Theory and Evidence"**
+<br>
+with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
+<br>
+Draft available soon
+<br>
+
+
+**6. "Industries That Meet: Face-to-Face Contact, Colocation, and Trade"**
+<br>
+with Shota Komatsu, Kentaro Nakajima, Kensuke Teshima, and Junichi Yamasaki
+<br>
+Draft available soon
+<br>
+
+**7. "Growing Up Abroad: Returns on Capital in Foreign Affiliates"**
+<br>
+with  Michael Devereux, Ippei Fujiwara, Fangyuan Yi
+<br>
+Draft available soon
 <br>
 
 
