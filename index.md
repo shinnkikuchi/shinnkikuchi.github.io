@@ -28,7 +28,7 @@ Submitted; Draft Updated in Aug 2026
 <br>
 with  <a href="https://www.danielgoconnor.com" target="_blank">Daniel G O'Connor</a>
 <br>
-Submitted; Draft Updated in Aug 2026
+Submitted; Draft Updated in Nov 2026
 <br>
 
 **3. "Taxing Automation? A Case for Redistribution across Skills and Generations"**
